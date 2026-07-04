@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**yevhenivashchenko/yevhenivashchenko** is a [![Codewars](https://www.codewars.com/users/yevhenivashchenko/badges/large)](https://www.codewars.com/users/yevhenivashchenko)
+<p align="left">
+  <a href="https://www.codewars.com/users/yevhenivashchenko">
+    <img src="https://www.codewars.com/users/yevhenivashchenko/badges/large" alt="Codewars Profile">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+### 🚀 About Me
+* 💻 **I’m currently working on**: personal open-source projects
+* 📚 **I’m currently learning**: Machine Learning, Advanced Data Structures, and Algorithms
+* 🤝 **I’m looking to collaborate on**: AI and data science initiatives
+* 💬 **Ask me about**: Competitive programming or Python development
+* ⚡ **Fun fact**: I love solving algorithmic challenges on LeetCode and CodeWars!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+* **Languages**: Python, SQL, C++, Rust, Go, JavaScript
+* **Frameworks/Libs**: PyTorch, TensorFlow, Pandas, NumPy
