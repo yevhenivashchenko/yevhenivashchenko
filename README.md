@@ -16,5 +16,5 @@
 ---
 
 ### 🛠️ Tech Stack & Tools
-* **Languages**: Python, SQL, C++, Rust, Go, JavaScript
+* **Languages**: Python, SQL, C++, Rust, Go, Ruby, R,
 * **Frameworks/Libs**: PyTorch, TensorFlow, Pandas, NumPy
