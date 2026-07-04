@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**yevhenivashchenko/yevhenivashchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yevhenivashchenko/yevhenivashchenko** is a [![Codewars](https://www.codewars.com/users/yevhenivashchenko/badges/large)](https://www.codewars.com/users/yevhenivashchenko)
 
 Here are some ideas to get you started:
 
