@@ -18,5 +18,6 @@
 ### 🛠️ Tech Stack & Tools
 * **Languages**: Python, SQL, C++, Rust, Go, Ruby, R,
 * **Frameworks/Libs**: PyTorch, TensorFlow, Pandas, NumPy
+** ⚡ **Fun fact:** I love solving algorithmic challenges on [HackerRank]([ссылка](https://img.shields.io/badge/-HackerRank-2EC474?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/yevhenivashchen1))
 * [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC474?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/yevhenivashchen1)
 * [![ProjectEuler+ Rank](https://img.shields.io/badge/ProjectEuler+--Rank-1934-2EC474?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/results/projecteuler/yevhenivashchen1)
