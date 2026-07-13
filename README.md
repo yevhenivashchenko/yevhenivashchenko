@@ -20,4 +20,6 @@
 * **Frameworks/Libs**: PyTorch, TensorFlow, Pandas, NumPy
 * [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC474?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/yevhenivashchen1)
 * [![ProjectEuler+ Rank](https://img.shields.io/badge/ProjectEuler+--Rank-1934-2EC474?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/results/projecteuler/yevhenivashchen1)
-* [![LeetCode Stats](https://leetcode-stats-badge.herokuapp.com/?username=yevhenivashchenko&theme=dark)](https://leetcode.com/u/yevhenivashchenko/)
+* [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/yevhenivashchenko/)
+[![Solved Problems](https://img.shields.io/badge/Solved-2861%2F3991-FFA116?style=flat-square)](https://leetcode.com/u/yevhenivashchenko/)
+[![Max Streak](https://img.shields.io/badge/Max%20Streak-116%20Days-FFA116?style=flat-square)](https://leetcode.com/u/yevhenivashchenko/)
