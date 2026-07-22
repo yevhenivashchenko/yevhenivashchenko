@@ -23,3 +23,10 @@
 * [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/yevhenivashchenko/)
 [![Solved Problems](https://img.shields.io/badge/Solved-2861%2F3991-FFA116?style=flat-square)](https://leetcode.com/u/yevhenivashchenko/)
 [![Max Streak](https://img.shields.io/badge/Max%20Streak-121%20Days-FFA116?style=flat-square)](https://leetcode.com/u/yevhenivashchenko/)
+<!-- Begin: HubSpot Academy - AEO Fundamentals Badge -->
+<div class='academy-badge'>
+<a href='https://app-eu1.hubspot.com/academy/achievements/037j6w08/en/1/yevhen-ivashchenko/aeo-fundamentals' title='AEO Fundamentals'>
+<img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/90d6b60c748e4b2397f360cddac3d05a.png' />
+</a>
+</div>
+<!-- End: HubSpot Academy - AEO Fundamentals Badge -->
