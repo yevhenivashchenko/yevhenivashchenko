@@ -23,11 +23,9 @@
 * [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/yevhenivashchenko/)
 [![Solved Problems](https://img.shields.io/badge/Solved-2861%2F3991-FFA116?style=flat-square)](https://leetcode.com/u/yevhenivashchenko/)
 [![Max Streak](https://img.shields.io/badge/Max%20Streak-121%20Days-FFA116?style=flat-square)](https://leetcode.com/u/yevhenivashchenko/)
-________
 <a href="https://app-eu1.hubspot.com/academy/achievements/037j6w08/en/1/yevhen-ivashchenko/aeo-fundamentals" target="_blank">
-  <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/90d6b60c748e4b2397f360cddac3d05a.png" width="400" alt="HubSpot AEO Fundamentals">
+  <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/90d6b60c748e4b2397f360cddac3d05a.png" width="300" alt="HubSpot AEO Fundamentals">
 </a>
-_________
 <a href="https://app-eu1.hubspot.com/academy/achievements/b4dcg12q/en/1/yevhen-ivashchenko/hubspot-revenue-operations-certified" target="_blank">
-  <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/7cd5270912f3436c86befa38eac0c9b4.png" width="400" alt="HubSpot Revenue Operations Certified">
+  <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/7cd5270912f3436c86befa38eac0c9b4.png" width="300" alt="HubSpot Revenue Operations Certified">
 </a>
