@@ -24,5 +24,5 @@
 [![Solved Problems](https://img.shields.io/badge/Solved-2861%2F3991-FFA116?style=flat-square)](https://leetcode.com/u/yevhenivashchenko/)
 [![Max Streak](https://img.shields.io/badge/Max%20Streak-121%20Days-FFA116?style=flat-square)](https://leetcode.com/u/yevhenivashchenko/)
 <a href="https://app-eu1.hubspot.com/academy/achievements/037j6w08/en/1/yevhen-ivashchenko/aeo-fundamentals" target="_blank">
-  <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/90d6b60c748e4b2397f360cddac3d05a.png" width="120" alt="HubSpot AEO Fundamentals">
+  <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/90d6b60c748e4b2397f360cddac3d05a.png" width="400" alt="HubSpot AEO Fundamentals">
 </a>
