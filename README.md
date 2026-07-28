@@ -26,6 +26,8 @@
 <a href="https://app-eu1.hubspot.com/academy/achievements/037j6w08/en/1/yevhen-ivashchenko/aeo-fundamentals" target="_blank">
   <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/90d6b60c748e4b2397f360cddac3d05a.png" width="300" alt="HubSpot AEO Fundamentals">
 </a>
+AEO Fundamentals (HubSpot Academy): Demonstrates strong communication skills, an understanding of content optimization and promotion principles, and the ability to build effective audience engagement.
 <a href="https://app-eu1.hubspot.com/academy/achievements/b4dcg12q/en/1/yevhen-ivashchenko/hubspot-revenue-operations-certified" target="_blank">
   <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/7cd5270912f3436c86befa38eac0c9b4.png" width="300" alt="HubSpot Revenue Operations Certified">
 </a>
+
