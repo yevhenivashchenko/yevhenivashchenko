@@ -24,11 +24,15 @@
 [![Solved Problems](https://img.shields.io/badge/Solved-2861%2F3991-FFA116?style=flat-square)](https://leetcode.com/u/yevhenivashchenko/)
 [![Max Streak](https://img.shields.io/badge/Max%20Streak-121%20Days-FFA116?style=flat-square)](https://leetcode.com/u/yevhenivashchenko/)
 <a href="https://app-eu1.hubspot.com/academy/achievements/037j6w08/en/1/yevhen-ivashchenko/aeo-fundamentals" target="_blank">
-  <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/90d6b60c748e4b2397f360cddac3d05a.png" width="200" alt="HubSpot AEO Fundamentals">
+  <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/90d6b60c748e4b2397f360cddac3d05a.png" width="300" alt="HubSpot AEO Fundamentals">
 </a>
 AEO Fundamentals (HubSpot Academy): Demonstrates strong communication skills, an understanding of content optimization and promotion principles, and the ability to build effective audience engagement.
 <a href="https://app-eu1.hubspot.com/academy/achievements/b4dcg12q/en/1/yevhen-ivashchenko/hubspot-revenue-operations-certified" target="_blank">
-  <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/7cd5270912f3436c86befa38eac0c9b4.png" width="200" alt="HubSpot Revenue Operations Certified">
+  <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/7cd5270912f3436c86befa38eac0c9b4.png" width="300" alt="HubSpot Revenue Operations Certified">
 </a>
 HubSpot Revenue Operations Certified (HubSpot Academy): Highlights a deep understanding of business processes, a systematic approach to sales, marketing, and operational efficiency, as well as strong skills in presenting business logic.
+| Certificate | Description |
+| :--- | :--- |
+| <img src=" ССЫЛКА_НА_ПЕРВУЮ_КАРТИНКУ " width="120"> | **AEO Fundamentals (HubSpot Academy)**: Demonstrates strong communication skills, an understanding of content optimization and promotion principles, and the ability to build effective audience engagement. |
+| <img src=" ССЫЛКА_НА_ВТОРУЮ_КАРТИНКУ " width="120"> | **HubSpot Revenue Operations Certified (HubSpot Academy)**: Highlights a deep understanding of business processes, a systematic approach to sales, marketing, and operational efficiency, as well as strong skills in presenting business logic. |
 
