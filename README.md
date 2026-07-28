@@ -29,8 +29,3 @@
 <a href="https://app-eu1.hubspot.com/academy/achievements/b4dcg12q/en/1/yevhen-ivashchenko/hubspot-revenue-operations-certified" target="_blank">
   <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/7cd5270912f3436c86befa38eac0c9b4.png" width="300" alt="HubSpot Revenue Operations Certified">
 </a>
-| Certificate | Description |
-AEO Fundamentals (HubSpot Academy): Demonstrates strong communication skills, an understanding of content optimization and promotion principles, and the ability to build effective audience engagement.
-
-HubSpot Revenue Operations Certified (HubSpot Academy): Highlights a deep understanding of business processes, a systematic approach to sales, marketing, and operational efficiency, as well as strong skills in presenting business logic.
-
