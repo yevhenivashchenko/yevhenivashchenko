@@ -23,7 +23,7 @@
 * [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/yevhenivashchenko/)
 [![Solved Problems](https://img.shields.io/badge/Solved-2861%2F3991-FFA116?style=flat-square)](https://leetcode.com/u/yevhenivashchenko/)
 [![Max Streak](https://img.shields.io/badge/Max%20Streak-121%20Days-FFA116?style=flat-square)](https://leetcode.com/u/yevhenivashchenko/)
-### 🏆 HackerEarth Achievements
+### 🏆 HackerEarth Achievements - www.hackerearth.com/@yevhenivashchenko7 
 
 <p align="left">
   <a href="https://www.hackerearth.com/@yevhenivashchenko7" target="_blank" rel="nofollow noopener noreferrer">
