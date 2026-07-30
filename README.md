@@ -26,27 +26,28 @@
 ### 🏆 HackerEarth Achievements
 
 <p align="left">
-  <a href="https://www.hackerearth.com/@yevhenivashchenko7">
+  <a href="https://www.hackerearth.com/@yevhenivashchenko7?badge_category=he_level&badge_type=global&badge_level=6" target="_blank">
     <img src="https://img.shields.io/badge/Global_Level_6-Legend_%2812000_pts%29-7928CA?style=flat-square&logo=hackerearth&logoColor=white" alt="Global Level 6 Legend">
   </a>
-  <a href="https://www.hackerearth.com/@yevhenivashchenko7">
+  <a href="https://www.hackerearth.com/@yevhenivashchenko7?badge_category=practice_track&badge_type=algorithms&badge_level=5" target="_blank">
     <img src="https://img.shields.io/badge/Algorithms-5_Stars_%28Top_1%25%29-E65100?style=flat-square&logo=hackerearth&logoColor=white" alt="Algorithms 5 Stars">
   </a>
-  <a href="https://www.hackerearth.com/@yevhenivashchenko7">
+  <a href="https://www.hackerearth.com/@yevhenivashchenko7?badge_category=practice_track&badge_type=data_structures&badge_level=5" target="_blank">
     <img src="https://img.shields.io/badge/Data_Structures-5_Stars_%28Top_1%25%29-E65100?style=flat-square&logo=hackerearth&logoColor=white" alt="Data Structures 5 Stars">
   </a>
-  <a href="https://www.hackerearth.com/@yevhenivashchenko7">
+  <a href="https://www.hackerearth.com/@yevhenivashchenko7?badge_category=practice_track&badge_type=math&badge_level=5" target="_blank">
     <img src="https://img.shields.io/badge/Math-5_Stars_%28Top_1%25%29-00897B?style=flat-square&logo=hackerearth&logoColor=white" alt="Math 5 Stars">
   </a>
-  <a href="https://www.hackerearth.com/@yevhenivashchenko7">
+  <a href="https://www.hackerearth.com/@yevhenivashchenko7?badge_category=practice_track&badge_type=basic_programming&badge_level=5" target="_blank">
     <img src="https://img.shields.io/badge/Basic_Programming-5_Stars_%28Top_1%25%29-FB8C00?style=flat-square&logo=hackerearth&logoColor=white" alt="Basic Programming 5 Stars">
   </a>
-  <a href="https://www.hackerearth.com/@yevhenivashchenko7">
+  <a href="https://www.hackerearth.com/@yevhenivashchenko7?badge_category=language&badge_type=CPP&badge_level=1" target="_blank">
     <img src="https://img.shields.io/badge/C++_language-Level_1-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++ language Level 1">
   </a>
-  <a href="https://www.hackerearth.com/@yevhenivashchenko7">
+  <a href="https://www.hackerearth.com/@yevhenivashchenko7?badge_category=language&badge_type=PYTHON&badge_level=1" target="_blank">
     <img src="https://img.shields.io/badge/Python_language-Level_1-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python language Level 1">
   </a>
+</p>
 </p>
 <a href="https://app-eu1.hubspot.com/academy/achievements/037j6w08/en/1/yevhen-ivashchenko/aeo-fundamentals" target="_blank">
   <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/90d6b60c748e4b2397f360cddac3d05a.png" width="300" alt="HubSpot AEO Fundamentals">
