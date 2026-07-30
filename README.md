@@ -26,39 +26,26 @@
 ### 🏆 HackerEarth Achievements
 
 <p align="left">
-  <!-- Global Level 6 Legend -->
   <a href="https://www.hackerearth.com/@yevhenivashchenko7" target="_blank">
-    <img src="https://camo.githubusercontent.com/87505a1866357497d85b390c4fb94e2c5e624837047a77501016d3c8b8b69e20/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476c6f62616c5f4c6576656c5f362d4c6567656e645f25323831323030305f7074732532392d3739323843413y" width="180" alt="Global Level 6 Legend" title="Global Level 6: Legend (12,000 pts)">
+    <img src="https://img.shields.io/badge/Global_Level_6-Legend_%2812000_pts%29-7928CA?style=flat-square&logo=hackerearth&logoColor=white" alt="Global Level 6 Legend">
   </a>
-
-  <!-- Algorithms 5 Stars -->
   <a href="https://www.hackerearth.com/@yevhenivashchenko7" target="_blank">
-    <img src="https://camo.githubusercontent.com/273f8efbf7f380773e1234567890abcdef1234567890abcdef1234567890ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416c676f726974686d732d355f53746172735f253238546f705f312532352532392d4536353130303y" width="180" alt="Algorithms 5 Stars" title="Algorithms: 5 Stars (Top 1%)">
+    <img src="https://img.shields.io/badge/Algorithms-5_Stars_%28Top_1%25%29-E65100?style=flat-square&logo=hackerearth&logoColor=white" alt="Algorithms 5 Stars">
   </a>
-
-  <!-- Data Structures 5 Stars -->
   <a href="https://www.hackerearth.com/@yevhenivashchenko7" target="_blank">
-    <img src="https://camo.githubusercontent.com/273f8efbf7f380773e1234567890abcdef1234567890abcdef1234567890ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446174615f537472756374757265732d355f53746172735f253238546f705f312532352532392d4536353130303y" width="180" alt="Data Structures 5 Stars" title="Data Structures: 5 Stars (Top 1%)">
+    <img src="https://img.shields.io/badge/Data_Structures-5_Stars_%28Top_1%25%29-E65100?style=flat-square&logo=hackerearth&logoColor=white" alt="Data Structures 5 Stars">
   </a>
-
-  <!-- Math 5 Stars -->
   <a href="https://www.hackerearth.com/@yevhenivashchenko7" target="_blank">
-    <img src="https://camo.githubusercontent.com/273f8efbf7f380773e1234567890abcdef1234567890abcdef1234567890ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174682d355f53746172735f253238546f705f312532352532392d3030383937423y" width="180" alt="Math 5 Stars" title="Math: 5 Stars (Top 1%)">
+    <img src="https://img.shields.io/badge/Math-5_Stars_%28Top_1%25%29-00897B?style=flat-square&logo=hackerearth&logoColor=white" alt="Math 5 Stars">
   </a>
-
-  <!-- Basic Programming 5 Stars -->
   <a href="https://www.hackerearth.com/@yevhenivashchenko7" target="_blank">
-    <img src="https://camo.githubusercontent.com/273f8efbf7f380773e1234567890abcdef1234567890abcdef1234567890ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f42617369635f50726f6772616d6d696e672d355f53746172735f253238546f705f312532352532392d4642384330303y" width="180" alt="Basic Programming 5 Stars" title="Basic Programming: 5 Stars (Top 1%)">
+    <img src="https://img.shields.io/badge/Basic_Programming-5_Stars_%28Top_1%25%29-FB8C00?style=flat-square&logo=hackerearth&logoColor=white" alt="Basic Programming 5 Stars">
   </a>
-
-  <!-- C++ language Level 1 -->
   <a href="https://www.hackerearth.com/@yevhenivashchenko7" target="_blank">
-    <img src="https://camo.githubusercontent.com/273f8efbf7f380773e1234567890abcdef1234567890abcdef1234567890ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b5f6c616e67756167652d4c6576656c5f312d3030353939433y" width="180" alt="C++ language Level 1" title="C++ Language: Level 1">
+    <img src="https://img.shields.io/badge/C++_language-Level_1-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++ language Level 1">
   </a>
-  
-  <!-- Python language Level 1 -->
   <a href="https://www.hackerearth.com/@yevhenivashchenko7" target="_blank">
-    <img src="https://camo.githubusercontent.com/273f8efbf7f380773e1234567890abcdef1234567890abcdef1234567890ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e5f6c616e67756167652d4c6576656c5f312d3337373641423y" width="180" alt="Python language Level 1" title="Python Language: Level 1">
+    <img src="https://img.shields.io/badge/Python_language-Level_1-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python language Level 1">
   </a>
 </p>
 </p>
