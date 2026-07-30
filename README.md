@@ -25,6 +25,10 @@
 [![Max Streak](https://img.shields.io/badge/Max%20Streak-121%20Days-FFA116?style=flat-square)](https://leetcode.com/u/yevhenivashchenko/)
 <p align="left">
   <a href="https://www.hackerearth.com/@yevhenivashchenko7" target="_blank">
+    <img s### 🏆 HackerEarth Achievements
+
+<p align="left">
+  <a href="https://www.hackerearth.com/@yevhenivashchenko7" target="_blank">
     <img src="https://img.shields.io/badge/Global_Level_6-Legend_%2812000_pts%29-7928CA?style=flat-square&logo=hackerearth&logoColor=white" alt="Global Level 6 Legend">
   </a>
   <a href="https://www.hackerearth.com/@yevhenivashchenko7" target="_blank">
