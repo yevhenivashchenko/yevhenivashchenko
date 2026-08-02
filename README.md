@@ -183,11 +183,6 @@
 </p>
 </p>
 
-### 🤖 Anthropic Academy Certificates - https://anthropic.skilljar.com/accounts/profile/?next=/
-
-<p align="left">
-  <a href="https://verify.skilljar.com/c/6ggjjhi278jf" target="_blank">
-    <img src="https://img.shields.io/badge/Anthropic-AI_Fluency:_Framework_%26_Foundations-15803d?style=flat-square&logo=anthropic&logoColor=white" alt="AI Fluency: Framework & Foundations">
 
 
 <a href="https://app-eu1.hubspot.com/academy/achievements/037j6w08/en/1/yevhen-ivashchenko/aeo-fundamentals" target="_blank">
