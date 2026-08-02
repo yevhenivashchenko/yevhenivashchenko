@@ -54,20 +54,6 @@
 ### ⚡ LeetCode Badges & Medals
 
 <p align="left">
-  <!-- Monthly Badges -->
-  <a href="https://leetcode.com/u/yevhenivashchenko/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Jul_Badge_2026-FFA116?style=flat-square&logo=LeetCode&logoColor=black" alt="Jul Badge 2026">
-  </a>
-  <a href="https://leetcode.com/u/yevhenivashchenko/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Jun_Badge_2026-FFA116?style=flat-square&logo=LeetCode&logoColor=black" alt="Jun Badge 2026">
-  </a>
-  <a href="https://leetcode.com/u/yevhenivashchenko/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-May_Badge_2026-FFA116?style=flat-square&logo=LeetCode&logoColor=black" alt="May Badge 2026">
-  </a>
-  <a href="https://leetcode.com/u/yevhenivashchenko/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Apr_Badge_2026-FFA116?style=flat-square&logo=LeetCode&logoColor=black" alt="Apr Badge 2026">
-  </a>
-
   <!-- Study Plan Medals -->
   <a href="https://leetcode.com/u/yevhenivashchenko/" target="_blank">
     <img src="https://img.shields.io/badge/Study_Plan-Top_100_Liked-00b8a3?style=flat-square&logo=LeetCode&logoColor=black" alt="Top 100 Liked">
