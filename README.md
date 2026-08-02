@@ -126,50 +126,20 @@
 
 ### 🏅 Kaggle Courses
 
-<p align="left">
-  <a href="https://www.kaggle.com/yevhenivashchenko" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Intro_to_Programming-20beff?style=flat-square&logo=Kaggle&logoColor=white" alt="Intro to Programming">
-  </a>
-  <a href="https://www.kaggle.com/yevhenivashchenko" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Python-20beff?style=flat-square&logo=Kaggle&logoColor=white" alt="Python">
-  </a>
-  <a href="https://www.kaggle.com/yevhenivashchenko" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Intro_to_Machine_Learning-20beff?style=flat-square&logo=Kaggle&logoColor=white" alt="Intro to Machine Learning">
-  </a>
-  <a href="https://www.kaggle.com/yevhenivashchenko" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Pandas-20beff?style=flat-square&logo=Kaggle&logoColor=white" alt="Pandas">
-  </a>
-  <a href="https://www.kaggle.com/yevhenivashchenko" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Intermediate_Machine_Learning-20beff?style=flat-square&logo=Kaggle&logoColor=white" alt="Intermediate Machine Learning">
-  </a>
-  <a href="https://www.kaggle.com/yevhenivashchenko" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Feature_Engineering-20beff?style=flat-square&logo=Kaggle&logoColor=white" alt="Feature Engineering">
-  </a>
-  <a href="https://www.kaggle.com/yevhenivashchenko" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Intro_to_SQL-20beff?style=flat-square&logo=Kaggle&logoColor=white" alt="Intro to SQL">
-  </a>
-  <a href="https://www.kaggle.com/yevhenivashchenko" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Advanced_SQL-20beff?style=flat-square&logo=Kaggle&logoColor=white" alt="Advanced SQL">
-  </a>
-  <a href="https://www.kaggle.com/yevhenivashchenko" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Intro_to_Deep_Learning-20beff?style=flat-square&logo=Kaggle&logoColor=white" alt="Intro to Deep Learning">
-  </a>
-  <a href="https://www.kaggle.com/yevhenivashchenko" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Computer_Vision-20beff?style=flat-square&logo=Kaggle&logoColor=white" alt="Computer Vision">
-  </a>
-  <a href="https://www.kaggle.com/yevhenivashchenko" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Data_Cleaning-20beff?style=flat-square&logo=Kaggle&logoColor=white" alt="Data Cleaning">
-  </a>
-  <a href="https://www.kaggle.com/yevhenivashchenko" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Intro_to_AI_Ethics-20beff?style=flat-square&logo=Kaggle&logoColor=white" alt="Intro to AI Ethics">
-  </a>
-  <a href="https://www.kaggle.com/yevhenivashchenko" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Machine_Learning_Explainability-20beff?style=flat-square&logo=Kaggle&logoColor=white" alt="Machine Learning Explainability">
-  </a>
-  <a href="https://www.kaggle.com/yevhenivashchenko" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Intro_to_Game_AI_and_Reinforcement_Learning-20beff?style=flat-square&logo=Kaggle&logoColor=white" alt="Intro to Game AI and Reinforcement Learning">
-  </a>
-</p>
+* <a href="https://www.kaggle.com/yevhenivashchenko" target="_blank">Intro to Programming</a>
+* <a href="https://www.kaggle.com/yevhenivashchenko" target="_blank">Python</a>
+* <a href="https://www.kaggle.com/yevhenivashchenko" target="_blank">Intro to Machine Learning</a>
+* <a href="https://www.kaggle.com/yevhenivashchenko" target="_blank">Pandas</a>
+* <a href="https://www.kaggle.com/yevhenivashchenko" target="_blank">Intermediate Machine Learning</a>
+* <a href="https://www.kaggle.com/yevhenivashchenko" target="_blank">Feature Engineering</a>
+* <a href="https://www.kaggle.com/yevhenivashchenko" target="_blank">Intro to SQL</a>
+* <a href="https://www.kaggle.com/yevhenivashchenko" target="_blank">Advanced SQL</a>
+* <a href="https://www.kaggle.com/yevhenivashchenko" target="_blank">Intro to Deep Learning</a>
+* <a href="https://www.kaggle.com/yevhenivashchenko" target="_blank">Computer Vision</a>
+* <a href="https://www.kaggle.com/yevhenivashchenko" target="_blank">Data Cleaning</a>
+* <a href="https://www.kaggle.com/yevhenivashchenko" target="_blank">Intro to AI Ethics</a>
+* <a href="https://www.kaggle.com/yevhenivashchenko" target="_blank">Machine Learning Explainability</a>
+* <a href="https://www.kaggle.com/yevhenivashchenko" target="_blank">Intro to Game AI and Reinforcement Learning</a>
 
 ### 🏆 HackerEarth Achievements - www.hackerearth.com/@yevhenivashchenko7 
 <p align="left">
