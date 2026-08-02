@@ -183,73 +183,7 @@
 </p>
 </p>
 
-### 🤖 Anthropic Academy Certificates
 
-<p align="left">
-  <a href="https://verify.skilljar.com/c/6ggjjhi278jf" target="_blank">
-    <img src="https://img.shields.io/badge/Anthropic-AI_Fluency:_Framework_%26_Foundations-15803d?style=flat-square&logo=anthropic&logoColor=white" alt="AI Fluency: Framework & Foundations">
-  </a>
-  <a href="URL_СЕРТИФИКАТА" target="_blank">
-    <img src="https://img.shields.io/badge/Anthropic-AI_Capabilities_and_Limitations-15803d?style=flat-square&logo=anthropic&logoColor=white" alt="AI Capabilities and Limitations">
-  </a>
-  <a href="URL_СЕРТИФИКАТА" target="_blank">
-    <img src="https://img.shields.io/badge/Anthropic-AI_Fluency_for_Builders-15803d?style=flat-square&logo=anthropic&logoColor=white" alt="AI Fluency for Builders">
-  </a>
-  <a href="URL_СЕРТИФИКАТА" target="_blank">
-    <img src="https://img.shields.io/badge/Anthropic-AI_Fluency_for_educators-15803d?style=flat-square&logo=anthropic&logoColor=white" alt="AI Fluency for educators">
-  </a>
-  <a href="URL_СЕРТИФИКАТА" target="_blank">
-    <img src="https://img.shields.io/badge/Anthropic-AI_Fluency_for_nonprofits-15803d?style=flat-square&logo=anthropic&logoColor=white" alt="AI Fluency for nonprofits">
-  </a>
-  <a href="URL_СЕРТИФИКАТА" target="_blank">
-    <img src="https://img.shields.io/badge/Anthropic-AI_Fluency_for_pK--12_Educators-15803d?style=flat-square&logo=anthropic&logoColor=white" alt="AI Fluency for pK-12 Educators">
-  </a>
-  <a href="URL_СЕРТИФИКАТА" target="_blank">
-    <img src="https://img.shields.io/badge/Anthropic-AI_Fluency_for_Small_Businesses-15803d?style=flat-square&logo=anthropic&logoColor=white" alt="AI Fluency for Small Businesses">
-  </a>
-  <a href="URL_СЕРТИФИКАТА" target="_blank">
-    <img src="https://img.shields.io/badge/Anthropic-AI_Fluency_for_students-15803d?style=flat-square&logo=anthropic&logoColor=white" alt="AI Fluency for students">
-  </a>
-  <a href="URL_СЕРТИFLИКАТА" target="_blank">
-    <img src="https://img.shields.io/badge/Anthropic-Building_with_the_Claude_API-15803d?style=flat-square&logo=anthropic&logoColor=white" alt="Building with the Claude API">
-  </a>
-  <a href="URL_СЕРТИФИКАТА" target="_blank">
-    <img src="https://img.shields.io/badge/Anthropic-Claude_101-15803d?style=flat-square&logo=anthropic&logoColor=white" alt="Claude 101">
-  </a>
-  <a href="URL_СЕРТИФИКАТА" target="_blank">
-    <img src="https://img.shields.io/badge/Anthropic-Claude_Code_101-15803d?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code 101">
-  </a>
-  <a href="URL_СЕРТИФИКАТА" target="_blank">
-    <img src="https://img.shields.io/badge/Anthropic-Claude_Code_in_Action-15803d?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code in Action">
-  </a>
-  <a href="URL_СЕРТИФИКАТА" target="_blank">
-    <img src="https://img.shields.io/badge/Anthropic-Claude_on_Google_Cloud-15803d?style=flat-square&logo=anthropic&logoColor=white" alt="Claude on Google Cloud">
-  </a>
-  <a href="URL_СЕРТИФИКАТА" target="_blank">
-    <img src="https://img.shields.io/badge/Anthropic-Claude_Platform_101-15803d?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Platform 101">
-  </a>
-  <a href="URL_СЕРТИФИКАТА" target="_blank">
-    <img src="https://img.shields.io/badge/Anthropic-Claude_with_Amazon_Bedrock-15803d?style=flat-square&logo=anthropic&logoColor=white" alt="Claude with Amazon Bedrock">
-  </a>
-  <a href="URL_СЕРТИФИКАТА" target="_blank">
-    <img src="https://img.shields.io/badge/Anthropic-Introduction_to_agent_skills-15803d?style=flat-square&logo=anthropic&logoColor=white" alt="Introduction to agent skills">
-  </a>
-  <a href="URL_СЕРТИФИКАТА" target="_blank">
-    <img src="https://img.shields.io/badge/Anthropic-Introduction_to_Claude_Cowork-15803d?style=flat-square&logo=anthropic&logoColor=white" alt="Introduction to Claude Cowork">
-  </a>
-  <a href="URL_СЕРТИФИКАТА" target="_blank">
-    <img src="https://img.shields.io/badge/Anthropic-Introduction_to_Model_Context_Protocol-15803d?style=flat-square&logo=anthropic&logoColor=white" alt="Introduction to Model Context Protocol">
-  </a>
-  <a href="URL_СЕРТИФИКАТА" target="_blank">
-    <img src="https://img.shields.io/badge/Anthropic-Introduction_to_subagents-15803d?style=flat-square&logo=anthropic&logoColor=white" alt="Introduction to subagents">
-  </a>
-  <a href="URL_СЕРТИФИКАТА" target="_blank">
-    <img src="https://img.shields.io/badge/Anthropic-Model_Context_Protocol:_Advanced_Topics-15803d?style=flat-square&logo=anthropic&logoColor=white" alt="Model Context Protocol: Advanced Topics">
-  </a>
-  <a href="URL_СЕРТИФИКАТА" target="_blank">
-    <img src="https://img.shields.io/badge/Anthropic-Teaching_AI_Fluency-15803d?style=flat-square&logo=C-15803d?style=flat-square&logo=anthropic&logoColor=white" alt="Teaching AI Fluency">
-  </a>
-</p>
 
 <a href="https://app-eu1.hubspot.com/academy/achievements/037j6w08/en/1/yevhen-ivashchenko/aeo-fundamentals" target="_blank">
   <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/90d6b60c748e4b2397f360cddac3d05a.png" width="300" alt="HubSpot AEO Fundamentals">
