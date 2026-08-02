@@ -23,6 +23,31 @@
 * [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/yevhenivashchenko/)
 [![Solved Problems](https://img.shields.io/badge/Solved-2861%2F3991-FFA116?style=flat-square)](https://leetcode.com/u/yevhenivashchenko/)
 [![Max Streak](https://img.shields.io/badge/Max%20Streak-121%20Days-FFA116?style=flat-square)](https://leetcode.com/u/yevhenivashchenko/)
+### 🏆 HackerRank Certificates
+
+<p align="left">
+  <a href="https://www.hackerrank.com/certificates/01370151ce0f" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-REST_API_(Intermediate)-2EC474?style=flat-square&logo=HackerRank&logoColor=white" alt="REST API (Intermediate) Certificate">
+  </a>
+  <a href="https://www.hackerrank.com/certificates/7843c637b0be" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Problem_Solving_(Intermediate)-2EC474?style=flat-square&logo=HackerRank&logoColor=white" alt="Problem Solving (Intermediate) Certificate">
+  </a>
+  <a href="https://www.hackerrank.com/certificates/dbca3e83d7db" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-R_(Intermediate)-2EC474?style=flat-square&logo=HackerRank&logoColor=white" alt="R (Intermediate) Certificate">
+  </a>
+  <a href="https://www.hackerrank.com/certificates/f05be77fe97f" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Python_(Basic)-2EC474?style=flat-square&logo=HackerRank&logoColor=white" alt="Python (Basic) Certificate">
+  </a>
+  <a href="https://www.hackerrank.com/certificates/6ef89dec4d78" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Go_(Intermediate)-2EC474?style=flat-square&logo=HackerRank&logoColor=white" alt="Go (Intermediate) Certificate">
+  </a>
+  <a href="https://www.hackerrank.com/certificates/e21d295e5f3b" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-SQL_(Intermediate)-2EC474?style=flat-square&logo=HackerRank&logoColor=white" alt="SQL (Intermediate) Certificate">
+  </a>
+  <a href="https://www.hackerrank.com/certificates/c45fbc13c95b" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Java_(Basic)-2EC474?style=flat-square&logo=HackerRank&logoColor=white" alt="Java (Basic) Certificate">
+  </a>
+</p>
 ### 🏆 HackerEarth Achievements - www.hackerearth.com/@yevhenivashchenko7 
 <p align="left">
   <img src="https://img.shields.io/badge/Global_Level_6-Legend_%2812000_pts%29-7928CA?style=flat-square&logo=hackerearth&logoColor=white" alt="Global Level 6 Legend">
