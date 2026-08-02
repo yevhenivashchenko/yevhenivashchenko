@@ -189,10 +189,11 @@
 [![Applied AI Foundations](https://img.shields.io/badge/Applied%20AI%20Foundations-blue?style=flat-square)](https://academy.openai.com/home/certificate/dayv3p20mq)
 [![Agents and Workflows](https://img.shields.io/badge/Agents%20and%20Workflows-blue?style=flat-square)](https://academy.openai.com/home/certificate/aj403q6bvh)
 
-[![Credly](https://img.shields.io/badge/Credly-Certificates-orange?style=flat-square&logo=credly)](https://www.credly.com)
-[![IBM SkillsBuild - Prompt Engineering](https://img.shields.io/badge/Credly-Prompt%20Engineering-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/5e58bba1-db54-41cc-b923-0181daf89e21/public_url)
-[![Badge 1](https://img.shields.io/badge/IBM%20SkillsBuild-Prompt%20Engineering-blue?style=flat-square)](https://www.credly.com/org/ibm/badge/5e58bba1-db54-41cc-b923-0181daf89e21)
-[![Badge 2](https://img.shields.io/badge/IBM%20SkillsBuild-Mindfulness-blue?style=flat-square)](https://www.credly.com/org/ibm/badge/cf6bc675-ccee-4c97-b058-34a3da5c0057)
+[![Cloud Computing Fundamentals](https://img.shields.io/badge/Credly-Cloud%20Computing%20Fundamentals-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/5e58bba1-db54-41cc-b923-0181daf89e21/public_url)
+[![Data Classification](https://img.shields.io/badge/Credly-Data%20Classification-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/cf6bc675-ccee-4c97-b058-34a3da5c0057/public_url)
+[![Data Collection and Analysis](https://img.shields.io/badge/Credly-Data%20Collection%20and%20Analysis-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/c28f00f4-2d55-40ad-9331-cdca107010fc/public_url)
+[![Data Fundamentals](https://img.shields.io/badge/Credly-Data%20Fundamentals-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/76ef40a2-281e-40c7-9945-78d7a5d71c9f/public_url)
+[![Data Preparation for Analysis](https://img.shields.io/badge/Credly-Data%20Preparation%20for%20Analysis-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/493961d1-5332-452d-b208-f7e9733a1fad/public_url)
 
 <a href="https://app-eu1.hubspot.com/academy/achievements/037j6w08/en/1/yevhen-ivashchenko/aeo-fundamentals" target="_blank">
   <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/90d6b60c748e4b2397f360cddac3d05a.png" width="300" alt="HubSpot AEO Fundamentals">
