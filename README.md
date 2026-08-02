@@ -190,6 +190,7 @@
 [![Agents and Workflows](https://img.shields.io/badge/Agents%20and%20Workflows-blue?style=flat-square)](https://academy.openai.com/home/certificate/aj403q6bvh)
 
 [![Credly](https://img.shields.io/badge/Credly-Certificates-orange?style=flat-square&logo=credly)](https://www.credly.com)
+[![IBM SkillsBuild - Prompt Engineering](https://img.shields.io/badge/Credly-Prompt%20Engineering-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/5e58bba1-db54-41cc-b923-0181daf89e21/public_url)
 [![Badge 1](https://img.shields.io/badge/IBM%20SkillsBuild-Prompt%20Engineering-blue?style=flat-square)](https://www.credly.com/org/ibm/badge/5e58bba1-db54-41cc-b923-0181daf89e21)
 [![Badge 2](https://img.shields.io/badge/IBM%20SkillsBuild-Mindfulness-blue?style=flat-square)](https://www.credly.com/org/ibm/badge/cf6bc675-ccee-4c97-b058-34a3da5c0057)
 
