@@ -183,7 +183,19 @@
 </p>
 </p>
 
+### 📜 Anthropic Academy Certificates
 
+[![Anthropic](https://img.shields.io/badge/Anthropic-Academy-darkgreen?style=flat-square&logo=anthropic)](https://anthropic.com)
+[![AI Fluency: AI Capabilities & Limitations](https://img.shields.io/badge/AI%20Fluency-AI%20Capabilities%20%26%20Limitations-blue?style=flat-square)](https://cc.sj-cdn.net/certificate/3oa2jr8dqiak3/certificate-ijuj7shq7cq4-1784383391.pdf?response-content-disposition=attachment%3B%20filename%3Dcertificate.pdf)
+[![AI Fluency for Builders](https://img.shields.io/badge/AI%20Fluency-for%20Builders-green?style=flat-square)](https://cc.sj-cdn.net/certificate/72y3xvhk846j/certificate-72y3xvhk846j-1784384606.pdf?response-content-disposition=attachment%3B%20filename%3Dcertificate.pdf)
+[![AI Fluency for Educators](https://img.shields.io/badge/AI%20Fluency-for%20Educators-green?style=flat-square)](https://cc.sj-cdn.net/certificate/2edxgzvi42n8/certificate-2edxgzvi42n8-1784384792.pdf?response-content-disposition=attachment%3B%20filename%3Dcertificate.pdf)
+[![AI Fluency for Nonprofits](https://img.shields.io/badge/AI%20Fluency-for%20Nonprofits-green?style=flat-square)](https://cc.sj-cdn.net/certificate/ejjk5ptqqup4/certificate-ejjk5ptqqup4-1784385012.pdf?response-content-disposition=attachment%3B%20filename%3Dcertificate.pdf)
+[![AI Fluency for K-12 Educators](https://img.shields.io/badge/AI%20Fluency-for%20K--12%20Educators-blue?style=flat-square)](https://cc.sj-cdn.net/certificate/n749bja6phwa/certificate-n749bja6phwa-1784385157.pdf?response-content-disposition=attachment%3B%20filename%3Dcertificate.pdf)
+[![AI Fluency for Small Businesses](https://img.shields.io/badge/AI%20Fluency-for%20Small%20Businesses-green?style=flat-square)](https://cc.sj-cdn.net/certificate/1gy5y0etiszxh/certificate-x43u6idwemvd-1784383396.pdf?response-content-disposition=attachment%3B%20filename%3Dcertificate.pdf)
+[![AI Fluency for Students](https://img.shields.io/badge/AI%20Fluency-for%20Students-blue?style=flat-square)](https://cc.sj-cdn.net/certificate/c99m58mkna38/certificate-c99m58mkna38-1784385568.pdf?response-content-disposition=attachment%3B%20filename%3Dcertificate.pdf)
+[![AI Fluency: Framework & Foundations](https://img.shields.io/badge/AI%20Fluency-Framework%20%26%20Foundations-green?style=flat-square)](https://cc.sj-cdn.net/certificate/17owe4fx9adox/certificate-6ggjjhi278jf-1784390075.pdf?response-content-disposition=attachment%3B%20filename%3Dcertificate.pdf)
+[![Claude with the Anthropic API](https://img.shields.io/badge/Claude-with%20the%20Anthropic%20API-blue?style=flat-square)](https://cc.sj-cdn.net/certificate/pqzh246eobvj/certificate-pqzh246eobvj-1784390382.pdf?response-content-disposition=attachment%3B%20filename%3Dcertificate.pdf)
+[![Claude 101](https://img.shields.io/badge/Claude-101-orange?style=flat-square)](https://cc.sj-cdn.net/certificate/6m7p369qpow3/certificate-6m7p369qpow3-1784390558.pdf?response-content-disposition=attachment%3B%20filename%3Dcertificate.pdf)
 
 <a href="https://app-eu1.hubspot.com/academy/achievements/037j6w08/en/1/yevhen-ivashchenko/aeo-fundamentals" target="_blank">
   <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/90d6b60c748e4b2397f360cddac3d05a.png" width="300" alt="HubSpot AEO Fundamentals">
