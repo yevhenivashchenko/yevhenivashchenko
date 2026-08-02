@@ -183,6 +183,7 @@
 </p>
 </p>
 
+### 🏆 OpenAI Academy - Yevhen Ivashchenko
 [![OpenAI](https://img.shields.io/badge/OpenAI-Academy-3776AB?style=flat-square&logo=openai)](https://academy.openai.com/home/courses/my-courses)
 [![AI Foundations](https://img.shields.io/badge/AI%20Foundations-blue?style=flat-square)](https://academy.openai.com/home/certificate/npgbyreus8)
 [![Applied AI Foundations](https://img.shields.io/badge/Applied%20AI%20Foundations-blue?style=flat-square)](https://academy.openai.com/home/certificate/dayv3p20mq)
