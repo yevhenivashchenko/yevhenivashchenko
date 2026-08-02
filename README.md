@@ -183,19 +183,30 @@
 </p>
 </p>
 
-### 📜 Anthropic Academy Certificates
+### 📜 [Anthropic Academy Certificates](https://anthropic.skilljar.com/accounts/profile/?next=/)
 
 [![Anthropic](https://img.shields.io/badge/Anthropic-Academy-darkgreen?style=flat-square&logo=anthropic)](https://anthropic.com)
-[![AI Fluency: AI Capabilities & Limitations](https://img.shields.io/badge/AI%20Fluency-AI%20Capabilities%20%26%20Limitations-blue?style=flat-square)](https://verify.skilljar.com/c/ijuj7shq7cq4)
-[![AI Fluency for Builders](https://img.shields.io/badge/AI%20Fluency-for%20Builders-green?style=flat-square)](https://verify.skilljar.com/c/72y3xvhk846j)
-[![AI Fluency for Educators](https://img.shields.io/badge/AI%20Fluency-for%20Educators-green?style=flat-square)](https://verify.skilljar.com/c/2edxgzvi42n8)
-[![AI Fluency for Nonprofits](https://img.shields.io/badge/AI%20Fluency-for%20Nonprofits-green?style=flat-square)](https://verify.skilljar.com/c/ejjk5ptqqup4)
-[![AI Fluency for K-12 Educators](https://img.shields.io/badge/AI%20Fluency-for%20K--12%20Educators-blue?style=flat-square)](https://verify.skilljar.com/c/n749bja6phwa)
-[![AI Fluency for Small Businesses](https://img.shields.io/badge/AI%20Fluency-for%20Small%20Businesses-green?style=flat-square)](https://verify.skilljar.com/c/x43u6idwemvd)
-[![AI Fluency for Students](https://img.shields.io/badge/AI%20Fluency-for%20Students-blue?style=flat-square)](https://verify.skilljar.com/c/c99m58mkna38)
-[![AI Fluency: Framework & Foundations](https://img.shields.io/badge/AI%20Fluency-Framework%20%26%20Foundations-green?style=flat-square)](https://verify.skilljar.com/c/6ggjjhi278jf)
-[![Claude with the Anthropic API](https://img.shields.io/badge/Claude-with%20the%20Anthropic%20API-blue?style=flat-square)](https://verify.skilljar.com/c/pqzh246eobvj)
-[![Claude 101](https://img.shields.io/badge/Claude-101-orange?style=flat-square)](https://verify.skilljar.com/c/6m7p369qpow3)
+[![AI Capabilities and Limitations](https://img.shields.io/badge/AI%20Capabilities%20and%20Limitations-blue?style=flat-square)](https://anthropic.skilljar.com/accounts/profile/?next=/)
+[![AI Fluency for Builders](https://img.shields.io/badge/AI%20Fluency%20for%20Builders-green?style=flat-square)](https://anthropic.skilljar.com/accounts/profile/?next=/)
+[![AI Fluency for Educators](https://img.shields.io/badge/AI%20Fluency%20for%20Educators-green?style=flat-square)](https://anthropic.skilljar.com/accounts/profile/?next=/)
+[![AI Fluency for Nonprofits](https://img.shields.io/badge/AI%20Fluency%20for%20Nonprofits-green?style=flat-square)](https://anthropic.skilljar.com/accounts/profile/?next=/)
+[![AI Fluency for pK-12 Educators](https://img.shields.io/badge/AI%20Fluency%20for%20pK--12%20Educators-blue?style=flat-square)](https://anthropic.skilljar.com/accounts/profile/?next=/)
+[![AI Fluency for Small Businesses](https://img.shields.io/badge/AI%20Fluency%20for%20Small%20Businesses-green?style=flat-square)](https://anthropic.skilljar.com/accounts/profile/?next=/)
+[![AI Fluency for Students](https://img.shields.io/badge/AI%20Fluency%20for%20Students-blue?style=flat-square)](https://anthropic.skilljar.com/accounts/profile/?next=/)
+[![AI Fluency: Framework & Foundations](https://img.shields.io/badge/AI%20Fluency:%20Framework%20%26%20Foundations-green?style=flat-square)](https://anthropic.skilljar.com/accounts/profile/?next=/)
+[![Building with the Claude API](https://img.shields.io/badge/Building%20with%20the%20Claude%20API-blue?style=flat-square)](https://anthropic.skilljar.com/accounts/profile/?next=/)
+[![Claude 101](https://img.shields.io/badge/Claude%20101-orange?style=flat-square)](https://anthropic.skilljar.com/accounts/profile/?next=/)
+[![Claude Code 101](https://img.shields.io/badge/Claude%20Code%20101-blue?style=flat-square)](https://anthropic.skilljar.com/accounts/profile/?next=/)
+[![Claude Code in Action](https://img.shields.io/badge/Claude%20Code%20in%20Action-green?style=flat-square)](https://anthropic.skilljar.com/accounts/profile/?next=/)
+[![Claude on Google Cloud](https://img.shields.io/badge/Claude%20on%20Google%20Cloud-blue?style=flat-square)](https://anthropic.skilljar.com/accounts/profile/?next=/)
+[![Claude Platform 101](https://img.shields.io/badge/Claude%20Platform%20101-orange?style=flat-square)](https://anthropic.skilljar.com/accounts/profile/?next=/)
+[![Claude with Amazon Bedrock](https://img.shields.io/badge/Claude%20with%20Amazon%20Bedrock-blue?style=flat-square)](https://anthropic.skilljar.com/accounts/profile/?next=/)
+[![Introduction to Agent Skills](https://img.shields.io/badge/Introduction%20to%20Agent%20Skills-green?style=flat-square)](https://anthropic.skilljar.com/accounts/profile/?next=/)
+[![Introduction to Claude Cowork](https://img.shields.io/badge/Introduction%20to%20Claude%20Cowork-blue?style=flat-square)](https://anthropic.skilljar.com/accounts/profile/?next=/)
+[![Introduction to Model Context Protocol](https://img.shields.io/badge/Introduction%20to%20Model%20Context%20Protocol-green?style=flat-square)](https://anthropic.skilljar.com/accounts/profile/?next=/)
+[![Introduction to Subagents](https://img.shields.io/badge/Introduction%20to%20Subagents-orange?style=flat-square)](https://anthropic.skilljar.com/accounts/profile/?next=/)
+[![Model Context Protocol: Advanced Topics](https://img.shields.io/badge/Model%20Context%20Protocol:%20Advanced%20Topics-blue?style=flat-square)](https://anthropic.skilljar.com/accounts/profile/?next=/)
+[![Teaching AI Fluency](https://img.shields.io/badge/Teaching%20AI%20Fluency-green?style=flat-square)](https://anthropic.skilljar.com/accounts/profile/?next=/)
 
 <a href="https://app-eu1.hubspot.com/academy/achievements/037j6w08/en/1/yevhen-ivashchenko/aeo-fundamentals" target="_blank">
   <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/90d6b60c748e4b2397f360cddac3d05a.png" width="300" alt="HubSpot AEO Fundamentals">
