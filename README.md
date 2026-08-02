@@ -50,8 +50,8 @@
     <img src="https://img.shields.io/badge/HackerRank-Java_(Basic)-2EC474?style=flat-square&logo=HackerRank&logoColor=white" alt="Java (Basic) Certificate">
   </a>
 </p>
-### 🌟 HackerRank Skill Badges
 
+### 🌟 HackerRank Skill Badges
 <p align="left">
   <a href="https://www.hackerrank.com/profile/yevhenivashchen1" target="_blank">
     <img src="https://img.shields.io/badge/Problem%20Solving-★★★★★_(Gold)-F5B800?style=flat-square&logo=HackerRank&logoColor=white" alt="Problem Solving 5 Stars">
