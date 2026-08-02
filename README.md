@@ -102,6 +102,20 @@
   </a>
 </p>
 
+### 🤗 Hugging Face Certificates
+
+<p align="left">
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging_Face-LLM_Post_Training:_Unit_1_(SFT)-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black" alt="LLM Post Training Unit 1 SFT">
+  </a>
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging_Face-LLM_Post_Training:_Unit_2_(Preference_Alignment)-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black" alt="LLM Post Training Unit 2 Preference Alignment">
+  </a>
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging_Face-LLM_Post_Training:_Unit_4_(Vision_Language_Models)-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black" alt="LLM Post Training Unit 4 Vision Language Models">
+  </a>
+</p>
+
 ### 🏆 HackerEarth Achievements - www.hackerearth.com/@yevhenivashchenko7 
 <p align="left">
   <img src="https://img.shields.io/badge/Global_Level_6-Legend_%2812000_pts%29-7928CA?style=flat-square&logo=hackerearth&logoColor=white" alt="Global Level 6 Legend">
