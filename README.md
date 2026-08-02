@@ -109,12 +109,13 @@
 <img src="https://img.shields.io/badge/Hugging_Face-LLM_Post_Training:_Unit_1_(SFT)-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black" alt="LLM Post Training Unit 1 SFT">
 </a>
 <a href="https://drive.google.com/file/d/1_Ci_pb0vk65QhuXZD9i7JgPC-mfGZcaN/view?usp=drive_link" target="_blank">
-<img src="https://img.shields.io/badge/Hugging_Face-LLM_Post_Training:_Unit_2_(Preference_Alignment)-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black" alt="LLM Post Training Unit 2 Preference Alignment">
+<img src="https://img.shields.io/badge/Hugging_Face-LLM_Post_Training:_Unit_3_(Preference_Alignment)-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black" alt="LLM Post Training Unit 3 Preference Alignment">
 </a>
 <a href="https://drive.google.com/file/d/1svF57kzK9A2wpCqZgVho9caKyY-a52_o/view?usp=drive_link" target="_blank">
 <img src="https://img.shields.io/badge/Hugging_Face-LLM_Post_Training:_Unit_4_(Vision_Language_Models)-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black" alt="LLM Post Training Unit 4 Vision Language Models">
 </a>
 </p>
+
 <p align="left">
 <a href="https://drive.google.com/file/d/1ebbEXmRFNe1lGo2rmPN9g-yyZmuMlXK7/view?usp=drive_link" target="_blank">
 <img src="https://img.shields.io/badge/Hugging_Face-The_LLM_Course:_Fundamentals_of_LLMs-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black" alt="The LLM Course Fundamentals of LLMs">
