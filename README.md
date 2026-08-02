@@ -51,6 +51,52 @@
   </a>
 </p>
 
+### ⚡ LeetCode Badges & Medals
+
+<p align="left">
+  <!-- Monthly Badges -->
+  <a href="https://leetcode.com/u/yevhenivashchenko/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Jul_Badge_2026-FFA116?style=flat-square&logo=LeetCode&logoColor=black" alt="Jul Badge 2026">
+  </a>
+  <a href="https://leetcode.com/u/yevhenivashchenko/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Jun_Badge_2026-FFA116?style=flat-square&logo=LeetCode&logoColor=black" alt="Jun Badge 2026">
+  </a>
+  <a href="https://leetcode.com/u/yevhenivashchenko/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-May_Badge_2026-FFA116?style=flat-square&logo=LeetCode&logoColor=black" alt="May Badge 2026">
+  </a>
+  <a href="https://leetcode.com/u/yevhenivashchenko/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Apr_Badge_2026-FFA116?style=flat-square&logo=LeetCode&logoColor=black" alt="Apr Badge 2026">
+  </a>
+
+  <!-- Study Plan Medals -->
+  <a href="https://leetcode.com/u/yevhenivashchenko/" target="_blank">
+    <img src="https://img.shields.io/badge/Study_Plan-Top_100_Liked-00b8a3?style=flat-square&logo=LeetCode&logoColor=black" alt="Top 100 Liked">
+  </a>
+  <a href="https://leetcode.com/u/yevhenivashchenko/" target="_blank">
+    <img src="https://img.shields.io/badge/Study_Plan-Top_Interview_150-00b8a3?style=flat-square&logo=LeetCode&logoColor=black" alt="Top Interview 150">
+  </a>
+  <a href="https://leetcode.com/u/yevhenivashchenko/" target="_blank">
+    <img src="https://img.shields.io/badge/Study_Plan-Top_SQL_50-00b8a3?style=flat-square&logo=LeetCode&logoColor=black" alt="Top SQL 50">
+  </a>
+  <a href="https://leetcode.com/u/yevhenivashchenko/" target="_blank">
+    <img src="https://img.shields.io/badge/Study_Plan-LeetCode_75-00b8a3?style=flat-square&logo=LeetCode&logoColor=black" alt="LeetCode 75">
+  </a>
+
+  <!-- Competition Medals -->
+  <a href="https://leetcode.com/u/yevhenivashchenko/" target="_blank">
+    <img src="https://img.shields.io/badge/Competition-Architecture_Design-ff375f?style=flat-square&logo=LeetCode&logoColor=black" alt="Architecture Design">
+  </a>
+  <a href="https://leetcode.com/u/yevhenivashchenko/" target="_blank">
+    <img src="https://img.shields.io/badge/Competition-Algorithm_Design-2775ca?style=flat-square&logo=LeetCode&logoColor=black" alt="Algorithm Design">
+  </a>
+  <a href="https://leetcode.com/u/yevhenivashchenko/" target="_blank">
+    <img src="https://img.shields.io/badge/Competition-Mathematical_(Active)-f0ad4e?style=flat-square&logo=LeetCode&logoColor=black" alt="Mathematical Active">
+  </a>
+  <a href="https://leetcode.com/u/yevhenivashchenko/" target="_blank">
+    <img src="https://img.shields.io/badge/Competition-Data_Navigator-5cb85c?style=flat-square&logo=LeetCode&logoColor=black" alt="Data Navigator">
+  </a>
+</p>
+
 ### 🌟 HackerRank Skill Badges
 <p align="left">
   <a href="https://www.hackerrank.com/profile/yevhenivashchen1" target="_blank">
