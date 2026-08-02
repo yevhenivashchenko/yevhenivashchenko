@@ -195,6 +195,10 @@
 [![Data Collection and Analysis](https://img.shields.io/badge/Credly-Data%20Collection%20and%20Analysis-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/c28f00f4-2d55-40ad-9331-cdca107010fc/public_url)
 [![Data Fundamentals](https://img.shields.io/badge/Credly-Data%20Fundamentals-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/76ef40a2-281e-40c7-9945-78d7a5d71c9f/public_url)
 [![Data Preparation for Analysis](https://img.shields.io/badge/Credly-Data%20Preparation%20for%20Analysis-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/493961d1-5332-452d-b208-f7e9733a1fad/public_url)
+[![Data Visualization and Presentation](https://img.shields.io/badge/Credly-Data%20Visualization%20and%20Presentation-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/7b3a45ad-ce16-4134-8b06-5006c827d87c/public_url)
+[![Explore Emerging Tech](https://img.shields.io/badge/Credly-Explore%20Emerging%20Tech-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/f6f65ca7-7f94-489d-8900-b18e2863a493/public_url)
+[![Getting Started with Generative AI](https://img.shields.io/badge/Credly-Getting%20Started%20with%20Generative%20AI-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/c6fe04a6-1276-4364-bc9c-5a553c341219/public_url)
+[![Introduction to Inferential and Descriptive Statistics](https://img.shields.io/badge/Credly-Introduction%20to%20Inferential%20and%20Descriptive%20Statistics-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/c37a1f8e-6a18-41f4-bea7-e49b6ea948e9/public_url)
 
 <a href="https://app-eu1.hubspot.com/academy/achievements/037j6w08/en/1/yevhen-ivashchenko/aeo-fundamentals" target="_blank">
   <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/90d6b60c748e4b2397f360cddac3d05a.png" width="300" alt="HubSpot AEO Fundamentals">
