@@ -50,6 +50,7 @@
     <img src="https://img.shields.io/badge/HackerRank-Java_(Basic)-2EC474?style=flat-square&logo=HackerRank&logoColor=white" alt="Java (Basic) Certificate">
   </a>
 </p>
+
 ### 🏆 HackerEarth Achievements - www.hackerearth.com/@yevhenivashchenko7 
 <p align="left">
   <img src="https://img.shields.io/badge/Global_Level_6-Legend_%2812000_pts%29-7928CA?style=flat-square&logo=hackerearth&logoColor=white" alt="Global Level 6 Legend">
