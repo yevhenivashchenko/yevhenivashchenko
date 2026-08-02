@@ -102,26 +102,27 @@
   </a>
 </p>
 
-### 🤗 Hugging Face Certificates
+### ▣ Hugging Face Certificates
 
 <p align="left">
-  <a href="https://huggingface.co/" target="_blank">
-    <img src="https://img.shields.io/badge/Hugging_Face-LLM_Post_Training:_Unit_1_(SFT)-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black" alt="LLM Post Training Unit 1 SFT">
-  </a>
-  <a href="https://huggingface.co/" target="_blank">
-    <img src="https://img.shields.io/badge/Hugging_Face-LLM_Post_Training:_Unit_2_(Preference_Alignment)-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black" alt="LLM Post Training Unit 2 Preference Alignment">
-  </a>
-  <a href="https://huggingface.co/" target="_blank">
-    <img src="https://img.shields.io/badge/Hugging_Face-LLM_Post_Training:_Unit_4_(Vision_Language_Models)-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black" alt="LLM Post Training Unit 4 Vision Language Models">
-  </a>
+<a href="https://drive.google.com/file/d/1M0IYgw8hENz30h5zDTwh3N2BV30sv85L/view?usp=drive_link" target="_blank">
+<img src="https://img.shields.io/badge/Hugging_Face-LLM_Post_Training:_Unit_1_(SFT)-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black" alt="LLM Post Training Unit 1 SFT">
+</a>
+<a href="https://drive.google.com/file/d/1_Ci_pb0vk65QhuXZD9i7JgPC-mfGZcaN/view?usp=drive_link" target="_blank">
+<img src="https://img.shields.io/badge/Hugging_Face-LLM_Post_Training:_Unit_2_(Preference_Alignment)-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black" alt="LLM Post Training Unit 2 Preference Alignment">
+</a>
+<a href="https://drive.google.com/file/d/1svF57kzK9A2wpCqZgVho9caKyY-a52_o/view?usp=drive_link" target="_blank">
+<img src="https://img.shields.io/badge/Hugging_Face-LLM_Post_Training:_Unit_4_(Vision_Language_Models)-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black" alt="LLM Post Training Unit 4 Vision Language Models">
+</a>
 </p>
+
 <p align="left">
-  <a href="https://huggingface.co/" target="_blank">
-    <img src="https://img.shields.io/badge/Hugging_Face-The_LLM_Course:_Fundamentals_of_LLMs-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black" alt="The LLM Course Fundamentals of LLMs">
-  </a>
-  <a href="https://huggingface.co/" target="_blank">
-    <img src="https://img.shields.io/badge/Hugging_Face-The_LLM_Course:_Fine--tuning_Language_Models-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black" alt="The LLM Course Fine-tuning Language Models">
-  </a>
+<a href="https://drive.google.com/file/d/1ebbEXmRFNe1lGo2rmPN9g-yyZmuMlXK7/view?usp=drive_link" target="_blank">
+<img src="https://img.shields.io/badge/Hugging_Face-The_LLM_Course:_Fundamentals_of_LLMs-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black" alt="The LLM Course Fundamentals of LLMs">
+</a>
+<a href="https://drive.google.com/file/d/1RROov1Cd-ursUOl61zZfB8v0pEs7W9zA/view?usp=drive_link" target="_blank">
+<img src="https://img.shields.io/badge/Hugging_Face-The_LLM_Course:_Fine--tuning_Language_Models-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black" alt="The LLM Course Fine-tuning Language Models">
+</a>
 </p>
 
 ### 🏅 Kaggle Courses
