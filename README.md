@@ -115,6 +115,14 @@
     <img src="https://img.shields.io/badge/Hugging_Face-LLM_Post_Training:_Unit_4_(Vision_Language_Models)-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black" alt="LLM Post Training Unit 4 Vision Language Models">
   </a>
 </p>
+<p align="left">
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging_Face-The_LLM_Course:_Fundamentals_of_LLMs-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black" alt="The LLM Course Fundamentals of LLMs">
+  </a>
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging_Face-The_LLM_Course:_Fine--tuning_Language_Models-FFD21E?style=flat-square&logo=HuggingFace&logoColor=black" alt="The LLM Course Fine-tuning Language Models">
+  </a>
+</p>
 
 ### 🏆 HackerEarth Achievements - www.hackerearth.com/@yevhenivashchenko7 
 <p align="left">
