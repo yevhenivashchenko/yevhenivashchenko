@@ -6,12 +6,14 @@
   </a>
 </p>
 
-### 🚀 About Me
-* 💻 **I’m currently working on**: personal open-source projects
-* 📚 **I’m currently learning**: Machine Learning, Advanced Data Structures, and Algorithms
-* 🤝 **I’m looking to collaborate on**: AI and data science initiatives
-* 💬 **Ask me about**: Competitive programming or Python development
-* ⚡ **Fun fact**: I love solving algorithmic challenges on LeetCode and CodeWars!
+### 🚀 Bio & Background
+
+* **Machine Learning & Backend:** Focused on data modeling, scalable backend systems, and competitive programming. Turning raw data into production intelligence.
+* **Mathematics & Algorithms:** Math Ambassador passionate about mathematics, algorithms, and analytical thinking, viewing math as the universal language behind complex systems, innovation, and technology.
+* **Programming & Development:** Programming Evangelist with expertise across Python, Go, Rust, C++, Java, Ruby, R, SQL, and modern Deep Learning frameworks, dedicated to building, teaching, and applying technology to real-world challenges.
+* **Digital Entrepreneurship:** Advocate of Digital Entrepreneurship and Code Monetization, bridging software engineering with business to create scalable products, sustainable innovation, and economic value.
+* **Design & Experience:** Human-Centered Technology Enthusiast with experience in UI/UX, branding, identity systems, concept design, and game design, combining psychology and design thinking to create impactful user experiences.
+* **Vision & Innovation:** Technology Visionary exploring the intersection of engineering, mathematics, AI, psychology, finance, design, and entrepreneurship to understand how emerging technologies transform industries and society.
 
 ---
 
