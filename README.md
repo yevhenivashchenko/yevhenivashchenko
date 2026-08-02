@@ -183,7 +183,10 @@
 </p>
 </p>
 
-
+[![OpenAI](https://img.shields.io/badge/OpenAI-Academy-3776AB?style=flat-square&logo=openai)](https://academy.openai.com/home/courses/my-courses)
+[![AI Foundations](https://img.shields.io/badge/AI%20Foundations-blue?style=flat-square)](https://academy.openai.com/home/certificate/npgbyreus8)
+[![Applied AI Foundations](https://img.shields.io/badge/Applied%20AI%20Foundations-blue?style=flat-square)](https://academy.openai.com/home/certificate/dayv3p20mq)
+[![Agents and Workflows](https://img.shields.io/badge/Agents%20and%20Workflows-blue?style=flat-square)](https://academy.openai.com/home/certificate/aj403q6bvh)
 
 <a href="https://app-eu1.hubspot.com/academy/achievements/037j6w08/en/1/yevhen-ivashchenko/aeo-fundamentals" target="_blank">
   <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/90d6b60c748e4b2397f360cddac3d05a.png" width="300" alt="HubSpot AEO Fundamentals">
