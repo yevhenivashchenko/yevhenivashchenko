@@ -201,6 +201,19 @@
 [![Getting Started with Generative AI](https://img.shields.io/badge/Credly-Getting%20Started%20with%20Generative%20AI-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/c6fe04a6-1276-4364-bc9c-5a553c341219/public_url)
 [![Introduction to Inferential and Descriptive Statistics](https://img.shields.io/badge/Credly-Introduction%20to%20Inferential%20and%20Descriptive%20Statistics-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/c37a1f8e-6a18-41f4-bea7-e49b6ea948e9/public_url)
 
+### Linux Foundation Badges - Yevhen Ivashchenko
+
+[![Credly Linux](https://img.shields.io/badge/Credly-LFS101%3A%20Introduction%20to%20Linux-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/d52b38ae-9a2f-44e3-ae4d-4b6251906eaf/public_url)
+[![Credly Linux](https://img.shields.io/badge/Credly-LFEL1008%3A%20Migrating%20AI%20Workflows-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/191439b3-8ffa-4903-b406-4a9e3615194e/public_url)
+[![Credly Linux](https://img.shields.io/badge/Credly-LFEL1011%3A%20OpenAPI%20Fundamentals-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/448021ee-c9bd-4dd9-8635-92a474b201ff/public_url)
+[![Credly Linux](https://img.shields.io/badge/Credly-LFEL1012%3A%20Secure%20AI%2FML%20Dev-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/6d16272e-6b08-4ff8-81d4-eda73b7bc190/public_url)
+[![Credly Linux](https://img.shields.io/badge/Credly-LFS147%3A%20Kubeflow%20Toolkits-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/b4fefde5-3ec5-4797-a043-a96014c3752f/public_url)
+[![Credly Linux](https://img.shields.io/badge/Credly-LFS157%3A%20Serverless%20Kubernetes-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/fd81bc2f-f430-44f5-b85a-f312629ae705/public_url)
+[![Credly Linux](https://img.shields.io/badge/Credly-LFS158%3A%20Intro%20to%20Kubernetes-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/9a10bda8-abe9-41cf-960f-abcf34ec5c9d/public_url)
+[![Credly Linux](https://img.shields.io/badge/Credly-LFEL1004%3A%20Auth%20Web%2FAPI-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/120095bf-2333-4b8a-96c2-0cde8443bf06/public_url)
+[![Credly Linux](https://img.shields.io/badge/Credly-LFEL1002%3A%20Rust%20Getting%20Started-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/72266d87-4aec-49dc-9533-fda6d4dcef2c/public_url)
+[![Credly Linux](https://img.shields.io/badge/Credly-LFS116%3A%20PyTorch%20%26%20Deep%20Learning-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/567989d6-ab46-49a8-a466-5ce6713b5b53/public_url)
+
 ### English Certificates
 
 <p align="left">
