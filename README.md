@@ -184,8 +184,6 @@
   <img src="https://img.shields.io/badge/Python_language_Level_1-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python language Level 1">
 </p>
 
-[![HackerEarth Profile Card](https://images.weserv.nl/?url=api.hackerearth.com/v4/social/profile/yevhenivashchenko7/&w=1200)](https://www.hackerearth.com/@yevhenivashchenko7/)
-
 ### 🏆 OpenAI Academy - Yevhen Ivashchenko
 [![OpenAI](https://img.shields.io/badge/OpenAI-Academy-3776AB?style=flat-square&logo=openai)](https://academy.openai.com/home/courses/my-courses)
 [![AI Foundations](https://img.shields.io/badge/AI%20Foundations-blue?style=flat-square)](https://academy.openai.com/home/certificate/npgbyreus8)
