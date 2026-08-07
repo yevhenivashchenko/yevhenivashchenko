@@ -6,8 +6,7 @@
   </a>
 </p>
 
-[![HackerEarth Profile](https://user-images.githubusercontent.com/custom-placeholder/hackerearth-card.png)](https://www.hackerearth.com/@yevhenivashchenko7)
-
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-Top%201%25%20Algorithms-black?style=flat-square&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@yevhenivashchenko7)
 ### 🚀 Bio & Background
 
 * **Machine Learning & Backend:** Focused on data modeling, scalable backend systems, and competitive programming. Turning raw data into production intelligence.
