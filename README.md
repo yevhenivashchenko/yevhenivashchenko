@@ -6,7 +6,7 @@
   </a>
 </p>
 
-### 🚀 Bio & Background
+### 🚀 Bio/about/summary & Background
 
 * **Machine Learning & Backend:** Focused on data modeling, scalable backend systems, and competitive programming. Turning raw data into production intelligence.
 * **Mathematics & Algorithms:** Math Ambassador passionate about mathematics, algorithms, and analytical thinking, viewing math as the universal language behind complex systems, innovation, and technology.
