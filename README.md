@@ -98,6 +98,9 @@
     <img src="https://img.shields.io/badge/Python-★★★★★_(Gold)-F5B800?style=flat-square&logo=Python&logoColor=white" alt="Python 5 Stars">
   </a>
   <a href="https://www.hackerrank.com/profile/yevhenivashchen1" target="_blank">
+    <img src="https://img.shields.io/badge/Sql-★★★★☆_(Silver)-959595?style=flat-square&logo=PostgreSQL&logoColor=white" alt="Sql 4 Stars">
+  </a>
+  <a href="https://www.hackerrank.com/profile/yevhenivashchen1" target="_blank">
     <img src="https://img.shields.io/badge/Ruby-★★★★☆_(Silver)-959595?style=flat-square&logo=Ruby&logoColor=white" alt="Ruby 4 Stars">
   </a>
 </p>
