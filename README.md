@@ -178,13 +178,14 @@
 ### HackerEarth Achievements - www.hackerearth.com/@yevhenivashchenko7
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Global_Level_7_Demigod_(25000_pts)-7928CA?style=flat-square&logo=hackerearth&logoColor=white" alt="Global Level 7 Demigod">
-  <img src="https://img.shields.io/badge/Algorithms_6_Stars-E65100?style=flat-square&logo=hackerearth&logoColor=white" alt="Algorithms 6 Stars">
-  <img src="https://img.shields.io/badge/Data_Structures_6_Stars-E65100?style=flat-square&logo=hackerearth&logoColor=white" alt="Data Structures 6 Stars">
-  <img src="https://img.shields.io/badge/Math_5_Stars-00897B?style=flat-square&logo=hackerearth&logoColor=white" alt="Math 5 Stars">
-  <img src="https://img.shields.io/badge/Basic_Programming_5_Stars-FB8C00?style=flat-square&logo=hackerearth&logoColor=white" alt="Basic Programming 5 Stars">
-  <img src="https://img.shields.io/badge/C++_language_Level_1-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++ language Level 1">
-  <img src="https://img.shields.io/badge/Python_language_Level_1-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python language Level 1">
+<img src="https://img.shields.io/badge/Global_Level_7_Demigod_(25000_pts)-7928CA?style=flat-square&logo=hackerearth&logoColor=white" alt="Global Level 7 Demigod">
+<img src="https://img.shields.io/badge/Algorithms_6_Stars-E65100?style=flat-square&logo=hackerearth&logoColor=white" alt="Algorithms 6 Stars">
+<img src="https://img.shields.io/badge/Data_Structures_6_Stars-E65100?style=flat-square&logo=hackerearth&logoColor=white" alt="Data Structures 6 Stars">
+<img src="https://img.shields.io/badge/Math_5_Stars-FB8C00?style=flat-square&logo=hackerearth&logoColor=white" alt="Math 5 Stars">
+<img src="https://img.shields.io/badge/Basic_Programming_5_Stars-FB8C00?style=flat-square&logo=hackerearth&logoColor=white" alt="Basic Programming 5 Stars">
+<img src="https://img.shields.io/badge/C++_language_Level_1-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++ language Level 1">
+<img src="https://img.shields.io/badge/Python_language_Level_1-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python language Level 1">
+<img src="https://img.shields.io/badge/Java_language_Level_1-007396?style=flat-square&logo=java&logoColor=white" alt="Java language Level 1">
 </p>
 
 ### 🏆 OpenAI Academy - Yevhen Ivashchenko
