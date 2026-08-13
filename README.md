@@ -256,6 +256,22 @@
     <img src="https://img.shields.io/badge/CodeChef-Practice_Go-blue?style=flat-square&logo=codechef&logoColor=white" alt="Practice Go Certificate">
   </a>
 </p>
+### CodeChef Skill Tests
+
+<p align="left">
+  <a href="https://www.codechef.com/users/yevhenivashche" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-C++_96%25-blue?style=flat-square&logo=codechef&logoColor=white" alt="C++ Skill Test">
+  </a>
+  <a href="https://www.codechef.com/users/yevhenivashche" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-Operating_Systems_100%25-brightgreen?style=flat-square&logo=codechef&logoColor=white" alt="Operating Systems Skill Test">
+  </a>
+  <a href="https://www.codechef.com/users/yevhenivashche" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-Python_83%25-blue?style=flat-square&logo=codechef&logoColor=white" alt="Python Skill Test">
+  </a>
+  <a href="https://www.codechef.com/users/yevhenivashche" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-Computer_Networking_80%25-blue?style=flat-square&logo=codechef&logoColor=white" alt="Computer Networking Skill Test">
+  </a>
+</p>
 
 <a href="https://app-eu1.hubspot.com/academy/achievements/037j6w08/en/1/yevhen-ivashchenko/aeo-fundamentals" target="_blank">
   <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/90d6b60c748e4b2397f360cddac3d05a.png" width="300" alt="HubSpot AEO Fundamentals">
