@@ -218,31 +218,6 @@
 [![Credly Linux](https://img.shields.io/badge/Credly-LFEL1002%3A%20Rust%20Getting%20Started-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/72266d87-4aec-49dc-9533-fda6d4dcef2c/public_url)
 [![Credly Linux](https://img.shields.io/badge/Credly-LFS116%3A%20PyTorch%20%26%20Deep%20Learning-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/567989d6-ab46-49a8-a466-5ce6713b5b53/public_url)
 
-### English Certificates
-
-<p align="left">
-  <a href="https://drive.google.com/file/d/10nifYBs1Dfi2tc1eYDNoHcP0N1WkzGyh/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/TestProvider/Englishdom-Business_English_(2026)-blue?style=flat-square" alt="Business English (2026)"></a>
-  <a href="https://drive.google.com/file/d/1ZZb9cAvt42NvIyqC_Rco5hz3L-gIJ-eY/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/TestProvider/Englishdom-IT_English_(2026)-blue?style=flat-square" alt="IT English (2026)"></a>
-  <a href="https://drive.google.com/file/d/1JKWjRL1U79ZAeRsdYVJvo_dXK7UIo34C/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/TestProvider/Englishdom-English_for_marketing_(2026)-blue?style=flat-square" alt="English for marketing (2026)"></a>
-  <a href="https://drive.google.com/file/d/1pgaUzazeoxyVO_q7NbWcEXo64kLOg_Ke/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/TestProvider/Englishdom-ESL005_Business--Proficient_English_(2026)-blue?style=flat-square" alt="ESL005 Business-Proficient English (2026)"></a>
-  <a href="https://drive.google.com/file/d/1jBIaQJxI95yPbjJys97b1l9u7HXf9qaj/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/TestProvider/Englishdom-ESL004_Advanced_English_(2026)-blue?style=flat-square" alt="ESL004 Advanced English (2026)"></a>
-  <a href="https://drive.google.com/file/d/1Pj56djRStilm3ikKUcBezzFlWIeLzKDf/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/TestProvider/Englishdom-ESL003_Upper--Intermediate_English_(2026)-blue?style=flat-square" alt="ESL003 Upper-Intermediate English (2026)"></a>
-  <a href="https://drive.google.com/file/d/1ftzS5UC9qqmbN5FKV3dnQtfTpFSYDZAN/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/TestProvider/Englishdom-ESL002_Intermediate_English_(2026)-blue?style=flat-square" alt="ESL002 Intermediate English (2026)"></a>
-  <a href="https://drive.google.com/file/d/1-Ex8OCu6cOifZaPNjwMgYVas3FqgdomB/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Prometheus-Business_English_(2026)-orange?style=flat-square" alt="Business English (2026)"></a>
-  <a href="https://drive.google.com/file/d/14IZKO3FJWlZqWH1dS2UCUnFU3DHQG5Sh/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Cursa-English_Advanced_Vocabulary_C1--C2_(2026)-success?style=flat-square" alt="English Advanced Vocabulary C1-C2 (2026)"></a>
-  <a href="https://drive.google.com/file/d/156JnKT8Kt2OMfE-14kPmc8mM-eA7osp0/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Cursa-Intermediate_English_B1_Everyday_Communication_(2026)-success?style=flat-square" alt="Intermediate English B1 Everyday Communication (2026)"></a>
-  <a href="https://drive.google.com/file/d/1kOgJFSpiuELimYO9zdfs0shgm-Dzlmev/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Cursa-Intermediate_English_B2_Professional_Communication_(2026)-success?style=flat-square" alt="Intermediate English B2 Professional Communication (2026)"></a>
-  <a href="https://drive.google.com/file/d/1-ltBdu7QH8-ZNFPYvCysDoedJzhX37n3/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Cursa_/_English_for_You-English_intermediate_level_(2025)-success?style=flat-square" alt="English intermediate level (2025)"></a>
-  <a href="https://drive.google.com/file/d/1QNiySiOJrs6a24jZZnENHGeBLjnZ2onc/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Cursa_/_The_UrbanFight-Prepare_for_TOEFL_exam_(2025)-success?style=flat-square" alt="Prepare for TOEFL exam (2025)"></a>
-  <a href="https://drive.google.com/file/d/1CJXphruqNfYwGiqU8Qt-G8zeZUztVk1X/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Cursa_/_Oxford_Online-IELTS_English_Exam_Lessons_(2025)-success?style=flat-square" alt="IELTS English Exam Lessons (2025)"></a>
-  <a href="https://drive.google.com/file/d/15JDETfek3TGZe6D3yKQFoUy_7r9HviO8/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Prometheus-English_for_media_literacy_(2024)-orange?style=flat-square" alt="English for media literacy (2024)"></a>
-  <a href="https://drive.google.com/file/d/1buQV7iPVx0facKt7F_gJ9MvMOsn0l5UP/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Prometheus-English_for_business_and_entrepreneurship_(2024)-orange?style=flat-square" alt="English for business and entrepreneurship (2024)"></a>
-  <a href="https://drive.google.com/file/d/1ZVHzlcmU7frRf_mZoD3BpYES2er79inC/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Prometheus-English_for_journalists_(2024)-orange?style=flat-square" alt="English for journalists (2024)"></a>
-  <a href="https://drive.google.com/file/d/1ZfjpUX98wVqUJQ9r4BLIa4w9K7Xag5LF/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Prometheus-English_for_STEM_(2024)-orange?style=flat-square" alt="English for STEM (2024)"></a>
-  <a href="https://drive.google.com/file/d/1E4p8zNYePrFusElYert5LBfJZVh7_xKJ/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Prometheus-English_for_career_development_(2024)-orange?style=flat-square" alt="English for career development (2024)"></a>
-  <a href="https://drive.google.com/file/d/1xaQCcxtgfhZjjaPscbIifpf0ZYOqopCQ/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Prometheus-English_for_beginners_Elementary_level_(2024)-orange?style=flat-square" alt="English for beginners Elementary level (2024)"></a>
-</p>
-
 ### CodeChef Badges & Certificates
 
 <p align="left">
@@ -272,6 +247,31 @@
   <a href="https://www.codechef.com/users/yevhenivashche" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-Computer_Networking_80%25-blue?style=flat-square&logo=codechef&logoColor=white" alt="Computer Networking Skill Test">
   </a>
+</p>
+
+### English Certificates
+
+<p align="left">
+  <a href="https://drive.google.com/file/d/10nifYBs1Dfi2tc1eYDNoHcP0N1WkzGyh/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/TestProvider/Englishdom-Business_English_(2026)-blue?style=flat-square" alt="Business English (2026)"></a>
+  <a href="https://drive.google.com/file/d/1ZZb9cAvt42NvIyqC_Rco5hz3L-gIJ-eY/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/TestProvider/Englishdom-IT_English_(2026)-blue?style=flat-square" alt="IT English (2026)"></a>
+  <a href="https://drive.google.com/file/d/1JKWjRL1U79ZAeRsdYVJvo_dXK7UIo34C/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/TestProvider/Englishdom-English_for_marketing_(2026)-blue?style=flat-square" alt="English for marketing (2026)"></a>
+  <a href="https://drive.google.com/file/d/1pgaUzazeoxyVO_q7NbWcEXo64kLOg_Ke/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/TestProvider/Englishdom-ESL005_Business--Proficient_English_(2026)-blue?style=flat-square" alt="ESL005 Business-Proficient English (2026)"></a>
+  <a href="https://drive.google.com/file/d/1jBIaQJxI95yPbjJys97b1l9u7HXf9qaj/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/TestProvider/Englishdom-ESL004_Advanced_English_(2026)-blue?style=flat-square" alt="ESL004 Advanced English (2026)"></a>
+  <a href="https://drive.google.com/file/d/1Pj56djRStilm3ikKUcBezzFlWIeLzKDf/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/TestProvider/Englishdom-ESL003_Upper--Intermediate_English_(2026)-blue?style=flat-square" alt="ESL003 Upper-Intermediate English (2026)"></a>
+  <a href="https://drive.google.com/file/d/1ftzS5UC9qqmbN5FKV3dnQtfTpFSYDZAN/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/TestProvider/Englishdom-ESL002_Intermediate_English_(2026)-blue?style=flat-square" alt="ESL002 Intermediate English (2026)"></a>
+  <a href="https://drive.google.com/file/d/1-Ex8OCu6cOifZaPNjwMgYVas3FqgdomB/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Prometheus-Business_English_(2026)-orange?style=flat-square" alt="Business English (2026)"></a>
+  <a href="https://drive.google.com/file/d/14IZKO3FJWlZqWH1dS2UCUnFU3DHQG5Sh/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Cursa-English_Advanced_Vocabulary_C1--C2_(2026)-success?style=flat-square" alt="English Advanced Vocabulary C1-C2 (2026)"></a>
+  <a href="https://drive.google.com/file/d/156JnKT8Kt2OMfE-14kPmc8mM-eA7osp0/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Cursa-Intermediate_English_B1_Everyday_Communication_(2026)-success?style=flat-square" alt="Intermediate English B1 Everyday Communication (2026)"></a>
+  <a href="https://drive.google.com/file/d/1kOgJFSpiuELimYO9zdfs0shgm-Dzlmev/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Cursa-Intermediate_English_B2_Professional_Communication_(2026)-success?style=flat-square" alt="Intermediate English B2 Professional Communication (2026)"></a>
+  <a href="https://drive.google.com/file/d/1-ltBdu7QH8-ZNFPYvCysDoedJzhX37n3/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Cursa_/_English_for_You-English_intermediate_level_(2025)-success?style=flat-square" alt="English intermediate level (2025)"></a>
+  <a href="https://drive.google.com/file/d/1QNiySiOJrs6a24jZZnENHGeBLjnZ2onc/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Cursa_/_The_UrbanFight-Prepare_for_TOEFL_exam_(2025)-success?style=flat-square" alt="Prepare for TOEFL exam (2025)"></a>
+  <a href="https://drive.google.com/file/d/1CJXphruqNfYwGiqU8Qt-G8zeZUztVk1X/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Cursa_/_Oxford_Online-IELTS_English_Exam_Lessons_(2025)-success?style=flat-square" alt="IELTS English Exam Lessons (2025)"></a>
+  <a href="https://drive.google.com/file/d/15JDETfek3TGZe6D3yKQFoUy_7r9HviO8/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Prometheus-English_for_media_literacy_(2024)-orange?style=flat-square" alt="English for media literacy (2024)"></a>
+  <a href="https://drive.google.com/file/d/1buQV7iPVx0facKt7F_gJ9MvMOsn0l5UP/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Prometheus-English_for_business_and_entrepreneurship_(2024)-orange?style=flat-square" alt="English for business and entrepreneurship (2024)"></a>
+  <a href="https://drive.google.com/file/d/1ZVHzlcmU7frRf_mZoD3BpYES2er79inC/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Prometheus-English_for_journalists_(2024)-orange?style=flat-square" alt="English for journalists (2024)"></a>
+  <a href="https://drive.google.com/file/d/1ZfjpUX98wVqUJQ9r4BLIa4w9K7Xag5LF/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Prometheus-English_for_STEM_(2024)-orange?style=flat-square" alt="English for STEM (2024)"></a>
+  <a href="https://drive.google.com/file/d/1E4p8zNYePrFusElYert5LBfJZVh7_xKJ/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Prometheus-English_for_career_development_(2024)-orange?style=flat-square" alt="English for career development (2024)"></a>
+  <a href="https://drive.google.com/file/d/1xaQCcxtgfhZjjaPscbIifpf0ZYOqopCQ/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Prometheus-English_for_beginners_Elementary_level_(2024)-orange?style=flat-square" alt="English for beginners Elementary level (2024)"></a>
 </p>
 
 <a href="https://app-eu1.hubspot.com/academy/achievements/037j6w08/en/1/yevhen-ivashchenko/aeo-fundamentals" target="_blank">
