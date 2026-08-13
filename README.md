@@ -243,6 +243,20 @@
   <a href="https://drive.google.com/file/d/1xaQCcxtgfhZjjaPscbIifpf0ZYOqopCQ/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Prometheus-English_for_beginners_Elementary_level_(2024)-orange?style=flat-square" alt="English for beginners Elementary level (2024)"></a>
 </p>
 
+### CodeChef Badges & Certificates
+
+<p align="left">
+  <a href="https://www.codechef.com/users/yevhenivashche" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-Problem_Solver--Gold-orange?style=flat-square&logo=codechef&logoColor=white" alt="Problem Solver - Gold Badge">
+  </a>
+  <a href="https://www.codechef.com/certificates/public/3775d3f" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-Practice_Rust-blue?style=flat-square&logo=codechef&logoColor=white" alt="Practice Rust Certificate">
+  </a>
+  <a href="https://www.codechef.com/certificates/public/a36188c" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-Practice_Go-blue?style=flat-square&logo=codechef&logoColor=white" alt="Practice Go Certificate">
+  </a>
+</p>
+
 <a href="https://app-eu1.hubspot.com/academy/achievements/037j6w08/en/1/yevhen-ivashchenko/aeo-fundamentals" target="_blank">
   <img src="https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/90d6b60c748e4b2397f360cddac3d05a.png" width="300" alt="HubSpot AEO Fundamentals">
 </a>
