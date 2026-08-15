@@ -225,10 +225,10 @@
     <img src="https://img.shields.io/badge/CodeChef-Problem_Solver--Diamond-blue?style=flat-square&logo=codechef&logoColor=white" alt="Problem Solver - Diamond Badge">
   </a>
   <a href="https://www.codechef.com/certificates/public/3775d3f" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-Practice_Rust--blue-orange?style=flat-square&logo=codechef&logoColor=white" alt="Practice Rust Certificate">
+    <img src="https://img.shields.io/badge/CodeChef-Practice_Rust-orange?style=flat-square&logo=codechef&logoColor=white" alt="Practice Rust Certificate">
   </a>
   <a href="https://www.codechef.com/certificates/public/a36188c" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-Practice_Go--blue-orange?style=flat-square&logo=codechef&logoColor=white" alt="Practice Go Certificate">
+    <img src="https://img.shields.io/badge/CodeChef-Practice_Go-orange?style=flat-square&logo=codechef&logoColor=white" alt="Practice Go Certificate">
   </a>
 </p>
 
