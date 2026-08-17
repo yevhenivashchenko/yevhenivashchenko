@@ -251,6 +251,9 @@
 
 ### English Certificates
 
+<a href="https://www.credly.com/org/cisco/badge/english-for-it-1" target="_blank"><img src="https://img.shields.io/badge/Cisco_Networking_Academy-English_for_IT_1_(2026)-blue?style=flat-square" alt="English for IT 1 (2026)"></a>
+  <a href="https://www.credly.com/org/cisco/badge/english-for-it-2" target="_blank"><img src="https://img.shields.io/badge/Cisco_Networking_Academy-English_for_IT_2_(2026)-blue?style=flat-square" alt="English for IT 2 (2026)"></a>
+  <a href="https://www.credly.com/org/cisco/badge/creating-compelling-reports" target="_blank"><img src="https://img.shields.io/badge/Cisco_Networking_Academy-Creating_Compelling_Reports_(2026)-blue?style=flat-square" alt="Creating Compelling Reports (2026)"></a>
 <p align="left">
   <a href="https://drive.google.com/file/d/10nifYBs1Dfi2tc1eYDNoHcP0N1WkzGyh/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/TestProvider/Englishdom-Business_English_(2026)-blue?style=flat-square" alt="Business English (2026)"></a>
   <a href="https://drive.google.com/file/d/1ZZb9cAvt42NvIyqC_Rco5hz3L-gIJ-eY/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/TestProvider/Englishdom-IT_English_(2026)-blue?style=flat-square" alt="IT English (2026)"></a>
