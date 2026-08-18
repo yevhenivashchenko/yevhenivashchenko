@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9ee8a68b-128d-48e6-9357-1b47ae6ef713" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<p align="left">
-  
   <a href="https://www.codewars.com/users/yevhenivashchenko">
     <img src="https://www.codewars.com/users/yevhenivashchenko/badges/large" alt="Codewars Profile">
   </a>
