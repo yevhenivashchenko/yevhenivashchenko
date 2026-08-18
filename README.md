@@ -251,8 +251,8 @@
 
 ### English Certificates
 
-<a href="[https://www.credly.com/org/cisco/badge/english-for-it-1](https://www.credly.com/earner/earned/badge/4d21a677-ea22-42f4-a677-55f26f1aaf3a)" target="_blank"><img src="https://img.shields.io/badge/Cisco_Networking_Academy-English_for_IT_1_(2026)-blue?style=flat-square" alt="English for IT 1 (2026)"></a>
-  <a href="https://www.credly.com/org/cisco/badge/english-for-it-2" target="_blank"><img src="https://img.shields.io/badge/Cisco_Networking_Academy-English_for_IT_2_(2026)-blue?style=flat-square" alt="English for IT 2 (2026)"></a>
+<a href="https://www.credly.com/earner/earned/badge/4d21a677-ea22-42f4-a677-55f26f1aaf3a" target="_blank"><img src="https://img.shields.io/badge/Cisco_Networking_Academy-English_for_IT_1_(2026)-blue?style=flat-square" alt="English for IT 1 (2026)"></a>
+  <a href="https://www.credly.com/earner/earned/badge/62a29d90-9876-4b0e-9f2f-3e3b080e1476" target="_blank"><img src="https://img.shields.io/badge/Cisco_Networking_Academy-English_for_IT_2_(2026)-blue?style=flat-square" alt="English for IT 2 (2026)"></a>
   <a href="https://drive.google.com/file/d/10nifYBs1Dfi2tc1eYDNoHcP0N1WkzGyh/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/TestProvider/Englishdom-Business_English_(2026)-blue?style=flat-square" alt="Business English (2026)"></a>
   <a href="https://drive.google.com/file/d/1ZZb9cAvt42NvIyqC_Rco5hz3L-gIJ-eY/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/TestProvider/Englishdom-IT_English_(2026)-blue?style=flat-square" alt="IT English (2026)"></a>
   <a href="https://drive.google.com/file/d/1JKWjRL1U79ZAeRsdYVJvo_dXK7UIo34C/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/TestProvider/Englishdom-English_for_marketing_(2026)-blue?style=flat-square" alt="English for marketing (2026)"></a>
