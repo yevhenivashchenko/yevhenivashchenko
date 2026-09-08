@@ -27,6 +27,14 @@
 ### 🏆 HackerRank Certificates
 
 <p align="left">
+  <a href="https://www.hackerrank.com/certificates/30acbe4e5f5a" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Software_Engineer-2EC47A?style=flat-square&logo=HackerRank&logoColor=white" alt="Software Engineer Certificate">
+  </a>
+  <a href="https://www.hackerrank.com/certificates/be7e54b3a44c" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Software_Engineer_Intern-2EC47A?style=flat-square&logo=HackerRank&logoColor=white" alt="Software Engineer Intern Certificate">
+  </a>
+</p>
+<p align="left">
   <a href="https://www.hackerrank.com/certificates/01370151ce0f" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-REST_API_(Intermediate)-2EC474?style=flat-square&logo=HackerRank&logoColor=white" alt="REST API (Intermediate) Certificate">
   </a>
