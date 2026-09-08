@@ -32,7 +32,9 @@
   </a>
   <a href="https://www.hackerrank.com/certificates/be7e54b3a44c" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-Software_Engineer_Intern-2EC47A?style=flat-square&logo=HackerRank&logoColor=white" alt="Software Engineer Intern Certificate">
-  </a>
+<a href="https://www.hackerrank.com/certificates/732482fa0cc2" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-SQL_(Advanced)-2EC47A?style=flat-square&logo=HackerRank&logoColor=white" alt="SQL (Advanced) Certificate">
+</a>
 </p>
 <p align="left">
   <a href="https://www.hackerrank.com/certificates/01370151ce0f" target="_blank">
