@@ -265,6 +265,14 @@
   </a>
 </p>
 
+### 🎓 University of Helsinki — Elements of AI
+
+<p align="left">
+  <a href="https://certificates.mooc.fi/validate/rxanx4erbcj" target="_blank">
+    <img src="https://img.shields.io/badge/University_of_Helsinki-Elements_of_AI_(2_ECTS)-0055A5?style=flat-square" alt="Elements of AI Certificate">
+  </a>
+</p>
+
 ### English Certificates
 
 <p align="left">
