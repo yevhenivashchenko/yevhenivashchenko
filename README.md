@@ -275,7 +275,8 @@
 
 ### English Certificates
 
-<a href="https://cert.efset.org/axACmX" target="_blank"><img src="https://img.shields.io/badge/EF_SET_C1_Advanced_(2026)-blue?style=flat-square" alt="EF SET C1 Advanced (2026)"></a>
+<a href="https://cert.efset.org/axACmX" target="_blank"><img src="https://img.shields.io/badge/EF%20SET-C1%20Advanced%20(2026)-blue?style=flat-square" alt="EF SET C1 Advanced (2026)"></a>
+</a>
 <p align="left">
 <a href="https://www.credly.com/earner/earned/badge/4d21a677-ea22-42f4-a677-55f26f1aaf3a" target="_blank"><img src="https://img.shields.io/badge/Cisco_Networking_Academy-English_for_IT_1_(2026)-blue?style=flat-square" alt="English for IT 1"></a>
 <a href="https://www.credly.com/earner/earned/badge/62a29d90-9876-4b0e-9f2f-3e3b080e1476" target="_blank"><img src="https://img.shields.io/badge/Cisco_Networking_Academy-English_for_IT_2_(2026)-blue?style=flat-square" alt="English for IT 2"></a>
