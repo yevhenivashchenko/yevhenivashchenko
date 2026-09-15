@@ -114,7 +114,7 @@
   </a>
 </p>
 <a href="https://www.hackerrank.com/profile/yevhenivashchen1" target="_blank">
-<img src="https://img.shields.io/badge/30%20Days%20of%20Code-%E2%98%85%E2%98%85%E2%98%85%E2%98%85_(Silver)-959595?style=flat-square&logo=HackerRank&logoColor=white" alt="30 Days of Code 4 Stars">
+<img src="https://img.shields.io/badge/30%20Days%20of%20Code-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85_(Gold)-F58800?style=flat-square&logo=HackerRank&logoColor=white" alt="30 Days of Code 5 Stars">
 </a>
 </a>
 <a href="https://www.hackerrank.com/profile/yevhenivashchen1" target="_blank">
