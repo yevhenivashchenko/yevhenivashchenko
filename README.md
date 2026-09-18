@@ -299,6 +299,8 @@
 
 <a href="https://cert.efset.org/axACmX" target="_blank"><img src="https://img.shields.io/badge/EF%20SET-C2%20Proficient%20(2026)-blue?style=flat-square" alt="EF SET C2 Proficient (2026)"></a></a>
 </a>
+[![OpenLearn](https://img.shields.io/badge/OpenLearn-How_to_Learn_a_Language-blue?style=flat-square&logo=open-access)](https://navigatr.app/profile/21639/yevhen-ivashchenko/badge/4561/how-to-learn-a-language)
+[![OpenLearn](https://img.shields.io/badge/OpenLearn-Learning_to_Teach_Online-blue?style=flat-square&logo=open-access)](https://navigatr.app/profile/21639/yevhen-ivashchenko/badge/4560/learning-to-teach-online)
 <p align="left">
 <a href="https://www.credly.com/earner/earned/badge/4d21a677-ea22-42f4-a677-55f26f1aaf3a" target="_blank"><img src="https://img.shields.io/badge/Cisco_Networking_Academy-English_for_IT_1_(2026)-blue?style=flat-square" alt="English for IT 1"></a>
 <a href="https://www.credly.com/earner/earned/badge/62a29d90-9876-4b0e-9f2f-3e3b080e1476" target="_blank"><img src="https://img.shields.io/badge/Cisco_Networking_Academy-English_for_IT_2_(2026)-blue?style=flat-square" alt="English for IT 2"></a>
