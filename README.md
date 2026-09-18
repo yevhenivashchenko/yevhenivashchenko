@@ -273,6 +273,23 @@
   </a>
 </p>
 
+### 🗄️ MongoDB Academy — Yevhen Ivashchenko
+
+[![Credly](https://img.shields.io/badge/Credly-Building_AI--Powered_Search-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/35850e70-7a04-4d01-83bf-d5c6f77041ef)
+[![Credly](https://img.shields.io/badge/Credly-Schema_Design_Patterns-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/538eb9fa-98fc-4af4-9232-9ef35567d898)
+[![Credly](https://img.shields.io/badge/Credly-Advanced_Schema_Design-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/658b465a-2f5e-4d60-a97a-4c959bf4c079)
+[![Credly](https://img.shields.io/badge/Credly-Data_Resilience-blue?style=flat-square&logo=credly)](https://www.credly.com/go/4TSApKPA)
+[![Credly](https://img.shields.io/badge/Credly-Retrieval_Evaluation-blue?style=flat-square&logo=credly)](https://www.credly.com/go/enGxwEdG)
+[![Credly](https://img.shields.io/badge/Credly-Agility_and_Velocity-blue?style=flat-square&logo=credly)](https://www.credly.com/go/Tv4t1dIa)
+[![Credly](https://img.shields.io/badge/Credly-Reliability_and_Availability-blue?style=flat-square&logo=credly)](https://www.credly.com/go/ql6BKBja)
+[![Credly](https://img.shields.io/badge/Credly-Scale_and_Adapt-blue?style=flat-square&logo=credly)](https://www.credly.com/go/QiL04o8E)
+[![Credly](https://img.shields.io/badge/Credly-Vector_Search_Performance-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/03d3eb19-5306-48c4-a606-747830a9e2cb)
+[![Credly](https://img.shields.io/badge/Credly-Observability_for_AI_Agents-blue?style=flat-square&logo=credly)](https://www.credly.com/go/zQGQ8zAU)
+[![Credly](https://img.shields.io/badge/Credly-Aggregation_Fundamentals-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/5f5f0711-425e-4b0b-bfef-322b0e790cbf)
+[![Credly](https://img.shields.io/badge/Credly-Sharding_Strategies-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/5665f93f-f512-493a-9500-867c5135b11a)
+[![Credly](https://img.shields.io/badge/Credly-Optimizing_Performance-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/909ba0e8-b4d7-4daf-af1d-ecab57eb86b9)
+[![Credly](https://img.shields.io/badge/Credly-Search_with_MongoDB-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/49170490-57f0-45d2-b820-948eb2f5bcea)
+
 ### English Certificates
 
 <a href="https://cert.efset.org/axACmX" target="_blank"><img src="https://img.shields.io/badge/EF%20SET-C2%20Proficient%20(2026)-blue?style=flat-square" alt="EF SET C2 Proficient (2026)"></a></a>
