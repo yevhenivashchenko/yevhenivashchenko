@@ -273,6 +273,11 @@
   </a>
 </p>
 
+### 🎓 OpenLearn Badges — Yevhen Ivashchenko
+
+[![OpenLearn](https://img.shields.io/badge/OpenLearn-Mathematics_for_Science_and_Technology-blue?style=flat-square&logo=open-access)](https://navigatr.app/profile/21639/yevhen-ivashchenko/badge/4130/mathematics-for-science-and-technology)
+[![OpenLearn](https://img.shields.io/badge/OpenLearn-Teaching_Mathematics-blue?style=flat-square&logo=open-access)](https://navigatr.app/profile/21639/yevhen-ivashchenko/badge/4556/teaching-mathematics)
+
 ### 🗄️ MongoDB Academy — Yevhen Ivashchenko
 
 [![Credly](https://img.shields.io/badge/Credly-Building_AI--Powered_Search-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/35850e70-7a04-4d01-83bf-d5c6f77041ef)
