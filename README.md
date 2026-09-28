@@ -273,6 +273,14 @@
   </a>
 </p>
 
+### 🎓 HP LIFE — Data Science & Analytics
+
+<p align="left">
+<a href="https://www.life-global.org/certificate/c573be7b-9c98-45b9-9c7b-c9bca0cff926" target="_blank">
+<img src="https://img.shields.io/badge/HP_LIFE-Data_Science_%26_Analytics_(2026)-blue?style=flat-square&logo=hp&logoColor=white" alt="Data Science & Analytics Certificate">
+</a>
+</p>
+
 ### 🎓 OpenLearn Badges — Yevhen Ivashchenko
 
 [![OpenLearn](https://img.shields.io/badge/OpenLearn-Mathematics_for_Science_and_Technology-blue?style=flat-square&logo=open-access)](https://navigatr.app/profile/21639/yevhen-ivashchenko/badge/4130/mathematics-for-science-and-technology)
