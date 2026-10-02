@@ -305,6 +305,8 @@
 
 ### English Certificates
 
+<a href="https://cert.efset.org/axAcNX" target="_blank"><img src="https://img.shields.io/badge/EF_SET-C2_Proficient_(2026)-blue?style=flat-square" alt="EF SET C2 Proficient (2026)"></a>
+<a href="https://pulse.transparent.com/english/result/7823e-13c3c509f" target="_blank"><img src="https://img.shields.io/badge/Transparent_PULSE-115_/_120_(2026)-blue?style=flat-square" alt="Transparent PULSE Test of English (2026)"></a>
 <a href="https://cert.efset.org/axACmX" target="_blank"><img src="https://img.shields.io/badge/EF%20SET-C2%20Proficient%20(2026)-blue?style=flat-square" alt="EF SET C2 Proficient (2026)"></a></a>
 </a>
 [![OpenLearn](https://img.shields.io/badge/OpenLearn-How_to_Learn_a_Language-blue?style=flat-square&logo=open-access)](https://navigatr.app/profile/21639/yevhen-ivashchenko/badge/4561/how-to-learn-a-language)
