@@ -303,23 +303,23 @@
 [![Credly](https://img.shields.io/badge/Credly-Optimizing_Performance-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/909ba0e8-b4d7-4daf-af1d-ecab57eb86b9)
 [![Credly](https://img.shields.io/badge/Credly-Search_with_MongoDB-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/49170490-57f0-45d2-b820-948eb2f5bcea)
 
-## LangChain Academy Certificates — Yevhen Ivashchenko
+### LangChain Academy Certificates — Yevhen Ivashchenko
 
 [![LangChain Academy](https://img.shields.io/badge/LangChain_Academy-Certificates-blue?style=flat-square&logo=chainlink&logoColor=white)](https://academy.langchain.com/)
 
-* [![LangChain](https://img.shields.io/badge/Quickstart:_dcode_Essentials-yrlx080djk-blue?style=flat-square&logo=python&logoColor=white)](https://academy.langchain.com/certificates/yrlx080djk)
-* [![LangChain](https://img.shields.io/badge/Foundation:_Introduction_to_Agent_Observability_%26_Evaluations-f6g8x71egg-blue?style=flat-square&logo=python&logoColor=white)](https://academy.langchain.com/certificates/f6g8x71egg)
-* [![LangChain](https://img.shields.io/badge/Project:_Deep_Research_with_LangGraph-xdifdaxloe-blue?style=flat-square&logo=python&logoColor=white)](https://academy.langchain.com/certificates/xdifdaxloe)
-* [![LangChain](https://img.shields.io/badge/Project:_Ambient_Agents_with_LangGraph-gz0k2beqvl-blue?style=flat-square&logo=python&logoColor=white)](https://academy.langchain.com/certificates/gz0k2beqvl)
-* [![LangChain](https://img.shields.io/badge/Foundation:_Introduction_to_Deep_Agents-vmmoibczfd-blue?style=flat-square&logo=python&logoColor=white)](https://academy.langchain.com/certificates/vmmoibczfd)
-* [![LangChain](https://img.shields.io/badge/Foundation:_Building_Reliable_Agents-fbd80rgwjd-blue?style=flat-square&logo=python&logoColor=white)](https://academy.langchain.com/certificates/fbd80rgwjd)
-* [![LangChain](https://img.shields.io/badge/Foundation:_Introduction_to_LangGraph_--_Python-n5cfdbio6e-blue?style=flat-square&logo=python&logoColor=white)](https://academy.langchain.com/certificates/n5cfdbio6e)
-* [![LangChain](https://img.shields.io/badge/Quickstart:_LangChain_Essentials_--_Python-6yha8pzq0k-blue?style=flat-square&logo=python&logoColor=white)](https://academy.langchain.com/certificates/6yha8pzq0k)
-* [![LangChain](https://img.shields.io/badge/Quickstart:_LangSmith_Essentials-d4ykrbhbgz-blue?style=flat-square&logo=python&logoColor=white)](https://academy.langchain.com/certificates/d4ykrbhbgz)
-* [![LangChain](https://img.shields.io/badge/Foundation:_Introduction_to_LangSmith_Deployment-ir2ceqwpr1-blue?style=flat-square&logo=python&logoColor=white)](https://academy.langchain.com/certificates/ir2ceqwpr1)
-* [![LangChain](https://img.shields.io/badge/Quickstart:_LangSmith_Fleet-l1rcxz5vju-blue?style=flat-square&logo=python&logoColor=white)](https://academy.langchain.com/certificates/l1rcxz5vju)
-* [![LangChain](https://img.shields.io/badge/Foundation:_Monitoring_Production_Agents-qt0h9rgt4j-blue?style=flat-square&logo=python&logoColor=white)](https://academy.langchain.com/certificates/qt0h9rgt4j)
-* [![LangChain](https://img.shields.io/badge/Quickstart:_Autonomous_Agent_Improvement-qqzzsf6ohz-blue?style=flat-square&logo=python&logoColor=white)](https://academy.langchain.com/certificates/qqzzsf6ohz)
+<a href="https://academy.langchain.com/certificates/yrlx080djk" target="_blank"><img src="https://img.shields.io/badge/Quickstart:_dcode_Essentials-yrlx080djk-blue?style=flat-square&logo=python&logoColor=white" alt="Quickstart: dcode Essentials"></a>
+<a href="https://academy.langchain.com/certificates/f6g8x71egg" target="_blank"><img src="https://img.shields.io/badge/Foundation:_Introduction_to_Agent_Observability_%26_Evaluations-f6g8x71egg-blue?style=flat-square&logo=python&logoColor=white" alt="Foundation: Introduction to Agent Observability & Evaluations"></a>
+<a href="https://academy.langchain.com/certificates/xdifdaxloe" target="_blank"><img src="https://img.shields.io/badge/Project:_Deep_Research_with_LangGraph-xdifdaxloe-blue?style=flat-square&logo=python&logoColor=white" alt="Project: Deep Research with LangGraph"></a>
+<a href="https://academy.langchain.com/certificates/gz0k2beqvl" target="_blank"><img src="https://img.shields.io/badge/Project:_Ambient_Agents_with_LangGraph-gz0k2beqvl-blue?style=flat-square&logo=python&logoColor=white" alt="Project: Ambient Agents with LangGraph"></a>
+<a href="https://academy.langchain.com/certificates/vmmoibczfd" target="_blank"><img src="https://img.shields.io/badge/Foundation:_Introduction_to_Deep_Agents-vmmoibczfd-blue?style=flat-square&logo=python&logoColor=white" alt="Foundation: Introduction to Deep Agents"></a>
+<a href="https://academy.langchain.com/certificates/fbd80rgwjd" target="_blank"><img src="https://img.shields.io/badge/Foundation:_Building_Reliable_Agents-fbd80rgwjd-blue?style=flat-square&logo=python&logoColor=white" alt="Foundation: Building Reliable Agents"></a>
+<a href="https://academy.langchain.com/certificates/n5cfdbio6e" target="_blank"><img src="https://img.shields.io/badge/Foundation:_Introduction_to_LangGraph_--_Python-n5cfdbio6e-blue?style=flat-square&logo=python&logoColor=white" alt="Foundation: Introduction to LangGraph - Python"></a>
+<a href="https://academy.langchain.com/certificates/6yha8pzq0k" target="_blank"><img src="https://img.shields.io/badge/Quickstart:_LangChain_Essentials_--_Python-6yha8pzq0k-blue?style=flat-square&logo=python&logoColor=white" alt="Quickstart: LangChain Essentials - Python"></a>
+<a href="https://academy.langchain.com/certificates/d4ykrbhbgz" target="_blank"><img src="https://img.shields.io/badge/Quickstart:_LangSmith_Essentials-d4ykrbhbgz-blue?style=flat-square&logo=python&logoColor=white" alt="Quickstart: LangSmith Essentials"></a>
+<a href="https://academy.langchain.com/certificates/ir2ceqwpr1" target="_blank"><img src="https://img.shields.io/badge/Foundation:_Introduction_to_LangSmith_Deployment-ir2ceqwpr1-blue?style=flat-square&logo=python&logoColor=white" alt="Foundation: Introduction to LangSmith Deployment"></a>
+<a href="https://academy.langchain.com/certificates/l1rcxz5vju" target="_blank"><img src="https://img.shields.io/badge/Quickstart:_LangSmith_Fleet-l1rcxz5vju-blue?style=flat-square&logo=python&logoColor=white" alt="Quickstart: LangSmith Fleet"></a>
+<a href="https://academy.langchain.com/certificates/qt0h9rgt4j" target="_blank"><img src="https://img.shields.io/badge/Foundation:_Monitoring_Production_Agents-qt0h9rgt4j-blue?style=flat-square&logo=python&logoColor=white" alt="Foundation: Monitoring Production Agents"></a>
+<a href="https://academy.langchain.com/certificates/qqzzsf6ohz" target="_blank"><img src="https://img.shields.io/badge/Quickstart:_Autonomous_Agent_Improvement-qqzzsf6ohz-blue?style=flat-square&logo=python&logoColor=white" alt="Quickstart: Autonomous Agent Improvement"></a>
 
 ### English Certificates
 
