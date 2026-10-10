@@ -323,8 +323,7 @@
 
 ### English Certificates
 
-<a href="https://pulse.transparent.com/english/result/78cfe-13a54075f" target="_blank"><img src="https://img.shields.io/badge/Transparent_PULSE_120_%2F_120_(Basic)-blue?style=flat-square" alt="Transparent PULSE Test of English 120/120 Basic"></a>
-<a href="https://pulse.transparent.com/english/result/deep/b07-791ca4bf" target="_blank"><img src="https://img.shields.io/badge/Transparent_PULSE_120_%2F_120_(Perfect)-blue?style=flat-square" alt="Transparent PULSE Test of English 120/120 Perfect"></a>
+[Transparent PULSE 120 / 120 (Basic)](https://pulse.transparent.com/english/result/78cfe-13a54075f) [Transparent PULSE 120 / 120 (Perfect)](https://pulse.transparent.com/english/result/deep/b07-791ca4bf)
 
 <a href="https://pulse.transparent.com/english/result/7823e-13c3c509f" target="_blank"><img src="https://img.shields.io/badge/Transparent_PULSE-115_/_120_(2026)-blue?style=flat-square" alt="Transparent PULSE Test of English (2026)"></a>
 <a href="https://cert.efset.org/axACmX" target="_blank"><img src="https://img.shields.io/badge/EF%20SET-C2%20Proficient%20(2026)-blue?style=flat-square" alt="EF SET C2 Proficient (2026)"></a></a>
