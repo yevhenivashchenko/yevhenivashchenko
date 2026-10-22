@@ -321,6 +321,16 @@
 <a href="https://academy.langchain.com/certificates/qt0h9rgt4j" target="_blank"><img src="https://img.shields.io/badge/Foundation:_Monitoring_Production_Agents-qt0h9rgt4j-blue?style=flat-square&logo=python&logoColor=white" alt="Foundation: Monitoring Production Agents"></a>
 <a href="https://academy.langchain.com/certificates/qqzzsf6ohz" target="_blank"><img src="https://img.shields.io/badge/Quickstart:_Autonomous_Agent_Improvement-qqzzsf6ohz-blue?style=flat-square&logo=python&logoColor=white" alt="Quickstart: Autonomous Agent Improvement"></a>
 
+### Forage Job Simulations — Yevhen Ivashchenko
+
+[![Forage - Data Science](https://img.shields.io/badge/Forage-Data_Science-blue?style=flat-square)](https://theforage.com/completion-certificates/SKZxezskWgmFjRvj9/Tcz8gTtprzAS4xSoK_SKZxezskWgmFjRvj9_6ad94fb83cc587a0a128f914_1792681877915_completion_certificate.pdf)
+[![Forage - Introduction to Data Science](https://img.shields.io/badge/Forage-Intro_to_Data_Science-blue?style=flat-square)](https://www.theforage.com/completion-certificates/2sNmYuurxgpFYawco/smwfytX3mcLboA9bf_2sNmYuurxgpFYawco_6ad94fb83cc587a0a128f914_1792683887782_completion_certificate.pdf)
+[![Forage - Data Science](https://img.shields.io/badge/Forage-Data_Science-blue?style=flat-square)](https://www.theforage.com/completion-certificates/tMjbs76F526fF5v3G/NjynCWzGSaWXQCxSX_tMjbs76F526fF5v3G_6ad94fb83cc587a0a128f914_1792685083989_completion_certificate.pdf)
+[![Forage - Software Engineering](https://img.shields.io/badge/Forage-Software_Engineering-blue?style=flat-square)](https://www.theforage.com/completion-certificates/nWHPnWj8YqGJh5kQB/8XSySTLv68WYeFhke_nWHPnWj8YqGJh5kQB_6ad94fb83cc587a0a128f914_1792707245305_completion_certificate.pdf)
+[![Forage - Software Engineering](https://img.shields.io/badge/Forage-Software_Engineering-blue?style=flat-square)](https://www.theforage.com/completion-certificates/2sNmYuurxgpFYawco/xv8eSGu7nksKNiCQj_2sNmYuurxgpFYawco_6ad94fb83cc587a0a128f914_1792706689364_completion_certificate.pdf)
+[![Forage - Software Engineering](https://img.shields.io/badge/Forage-Software_Engineering-blue?style=flat-square)](https://www.theforage.com/completion-certificates/fgHAi6dLhpRsGKyyN/da2T3WZCbMAJD7bNB_fgHAi6dLhpRsGKyyN_6ad94fb83cc587a0a128f914_1792705953632_completion_certificate.pdf)
+[![Forage - Advanced Software Engineering](https://img.shields.io/badge/Forage-Advanced_Software_Engineering-blue?style=flat-square)](https://www.theforage.com/completion-certificates/prBZoAihniNijyD6d/oX6f9BbCL9kJDJzfg_prBZoAihniNijyD6d_6ad94fb83cc587a0a128f914_1792705147109_completion_certificate.pdf)
+
 ### English Certificates
 
 <a href="https://pulse.transparent.com/english/result/78cfe-13a54075f" target="_blank"><img src="https://img.shields.io/badge/Transparent_PULSE-120_%2F_120_(Basic)-blue?style=flat-square" alt="Transparent PULSE 120 / 120 (Basic)"></a>
