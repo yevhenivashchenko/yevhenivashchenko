@@ -323,13 +323,29 @@
 
 ### Forage Job Simulations — Yevhen Ivashchenko
 
-[![Forage - Data Science](https://img.shields.io/badge/Forage-Data_Science-blue?style=flat-square)](https://theforage.com/completion-certificates/SKZxezskWgmFjRvj9/Tcz8gTtprzAS4xSoK_SKZxezskWgmFjRvj9_6ad94fb83cc587a0a128f914_1792681877915_completion_certificate.pdf)
-[![Forage - Introduction to Data Science](https://img.shields.io/badge/Forage-Intro_to_Data_Science-blue?style=flat-square)](https://www.theforage.com/completion-certificates/2sNmYuurxgpFYawco/smwfytX3mcLboA9bf_2sNmYuurxgpFYawco_6ad94fb83cc587a0a128f914_1792683887782_completion_certificate.pdf)
-[![Forage - Data Science](https://img.shields.io/badge/Forage-Data_Science-blue?style=flat-square)](https://www.theforage.com/completion-certificates/tMjbs76F526fF5v3G/NjynCWzGSaWXQCxSX_tMjbs76F526fF5v3G_6ad94fb83cc587a0a128f914_1792685083989_completion_certificate.pdf)
-[![Forage - Software Engineering](https://img.shields.io/badge/Forage-Software_Engineering-blue?style=flat-square)](https://www.theforage.com/completion-certificates/nWHPnWj8YqGJh5kQB/8XSySTLv68WYeFhke_nWHPnWj8YqGJh5kQB_6ad94fb83cc587a0a128f914_1792707245305_completion_certificate.pdf)
-[![Forage - Software Engineering](https://img.shields.io/badge/Forage-Software_Engineering-blue?style=flat-square)](https://www.theforage.com/completion-certificates/2sNmYuurxgpFYawco/xv8eSGu7nksKNiCQj_2sNmYuurxgpFYawco_6ad94fb83cc587a0a128f914_1792706689364_completion_certificate.pdf)
-[![Forage - Software Engineering](https://img.shields.io/badge/Forage-Software_Engineering-blue?style=flat-square)](https://www.theforage.com/completion-certificates/fgHAi6dLhpRsGKyyN/da2T3WZCbMAJD7bNB_fgHAi6dLhpRsGKyyN_6ad94fb83cc587a0a128f914_1792705953632_completion_certificate.pdf)
-[![Forage - Advanced Software Engineering](https://img.shields.io/badge/Forage-Advanced_Software_Engineering-blue?style=flat-square)](https://www.theforage.com/completion-certificates/prBZoAihniNijyD6d/oX6f9BbCL9kJDJzfg_prBZoAihniNijyD6d_6ad94fb83cc587a0a128f914_1792705147109_completion_certificate.pdf)
+<p align="left">
+  <a href="https://theforage.com/completion-certificates/SKZxezskWgmFjRvj9/Tcz8gTtprzAS4xSoK_SKZxezskWgmFjRvj9_6ad94fb83cc587a0a128f914_1792681877915_completion_certificate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/British_Airways-Data_Science-112266?style=flat-square&logo=britishairways&logoColor=white" alt="British Airways - Data Science">
+  </a>
+  <a href="https://www.theforage.com/completion-certificates/2sNmYuurxgpFYawco/smwfytX3mcLboA9bf_2sNmYuurxgpFYawco_6ad94fb83cc587a0a128f914_1792683887782_completion_certificate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/PwC-Intro_to_Data_Science-D04A02?style=flat-square&logo=pwc&logoColor=white" alt="PwC - Intro to Data Science">
+  </a>
+  <a href="https://www.theforage.com/completion-certificates/tMjbs76F526fF5v3G/NjynCWzGSaWXQCxSX_tMjbs76F526fF5v3G_6ad94fb83cc587a0a128f914_1792685083989_completion_certificate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Accenture-Data_Analytics_%26_Visualization-A100FF?style=flat-square&logo=accenture&logoColor=white" alt="Accenture - Data Science">
+  </a>
+  <a href="https://www.theforage.com/completion-certificates/nWHPnWj8YqGJh5kQB/8XSySTLv68WYeFhke_nWHPnWj8YqGJh5kQB_6ad94fb83cc587a0a128f914_1792707245305_completion_certificate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/JPMorgan_Chase-Software_Engineering-0A2540?style=flat-square&logo=jpmorgan&logoColor=white" alt="JPMorgan Chase - Software Engineering">
+  </a>
+  <a href="https://www.theforage.com/completion-certificates/2sNmYuurxgpFYawco/xv8eSGu7nksKNiCQj_2sNmYuurxgpFYawco_6ad94fb83cc587a0a128f914_1792706689364_completion_certificate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Lyft-Software_Engineering-FF00BF?style=flat-square&logo=lyft&logoColor=white" alt="Lyft - Software Engineering">
+  </a>
+  <a href="https://www.theforage.com/completion-certificates/fgHAi6dLhpRsGKyyN/da2T3WZCbMAJD7bNB_fgHAi6dLhpRsGKyyN_6ad94fb83cc587a0a128f914_1792705953632_completion_certificate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Electronic_Arts-Software_Engineering-FF0000?style=flat-square&logo=ea&logoColor=white" alt="EA - Software Engineering">
+  </a>
+  <a href="https://www.theforage.com/completion-certificates/prBZoAihniNijyD6d/oX6f9BbCL9kJDJzfg_prBZoAihniNijyD6d_6ad94fb83cc587a0a128f914_1792705147109_completion_certificate.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Walmart-Advanced_Software_Engineering-0071CE?style=flat-square&logo=walmart&logoColor=white" alt="Walmart - Advanced Software Engineering">
+  </a>
+</p>
 
 ### English Certificates
 
