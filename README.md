@@ -321,15 +321,9 @@
 <a href="https://academy.langchain.com/certificates/qt0h9rgt4j" target="_blank"><img src="https://img.shields.io/badge/Foundation:_Monitoring_Production_Agents-qt0h9rgt4j-blue?style=flat-square&logo=python&logoColor=white" alt="Foundation: Monitoring Production Agents"></a>
 <a href="https://academy.langchain.com/certificates/qqzzsf6ohz" target="_blank"><img src="https://img.shields.io/badge/Quickstart:_Autonomous_Agent_Improvement-qqzzsf6ohz-blue?style=flat-square&logo=python&logoColor=white" alt="Quickstart: Autonomous Agent Improvement"></a>
 
-### 🎓 Databricks Certifications & Course Completions
+## 🗄️ Databricks Courses - Yevhen Ivashchenko
 
-| Course / Track | Best Score | Lessons | Completed | Link |
-| :--- | :---: | :---: | :---: | :---: |
-| **Databricks Fundamentals** | 100% | 7 / 7 | Oct 2026 | [Verify / View](https://www.databricks.com/try-databricks?utm_source=course_completion&utm_medium=linkedin&utm_campaign=fe_learning_completion&utm_content=fundamentals-v2) |
-| **Get Started with Data Engineering** | 100% | 8 / 8 | Oct 2026 | [Verify / View](https://www.databricks.com/try-databricks?utm_source=course_completion&utm_medium=linkedin&utm_campaign=fe_learning_completion&utm_content=get-started-de) |
-| **Get Started with Machine Learning** | 100% | 8 / 8 | Oct 2026 | [Verify / View](https://www.databricks.com/try-databricks?utm_source=course_completion&utm_medium=linkedin&utm_campaign=fe_learning_completion&utm_content=machine-learning) |
-| **Get Started with Databricks for Generative AI** | 100% | 14 / 14 | Oct 2026 | [Verify / View](https://www.databricks.com/try-databricks?utm_source=course_completion&utm_medium=linkedin&utm_campaign=fe_learning_completion&utm_content=get-started-gen-ai) |
-| **Get Started with AI Agents on Databricks** | 100% | 11 / 11 | Oct 2026 | [Verify / View](https://www.databricks.com/try-databricks?utm_source=course_completion&utm_medium=linkedin&utm_campaign=fe_learning_completion&utm_content=get-started-ai-agents) |
+[![Databricks](https://img.shields.io/badge/Databricks-Fundamentals-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://navigatr.app/) [![Databricks](https://img.shields.io/badge/Databricks-Get%20Started%20with%20Data%20Engineering-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://navigatr.app/) [![Databricks](https://img.shields.io/badge/Databricks-Get%20Started%20with%20Machine%20Learning-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://navigatr.app/) [![Databricks](https://img.shields.io/badge/Databricks-Get%20Started%20for%20Generative%20AI-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://navigatr.app/) [![Databricks](https://img.shields.io/badge/Databricks-Get%20Started%20with%20AI%20Agents-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://navigatr.app/)
 
 ### Forage Job Simulations — Yevhen Ivashchenko
 
