@@ -321,6 +321,23 @@
 <a href="https://academy.langchain.com/certificates/qt0h9rgt4j" target="_blank"><img src="https://img.shields.io/badge/Foundation:_Monitoring_Production_Agents-qt0h9rgt4j-blue?style=flat-square&logo=python&logoColor=white" alt="Foundation: Monitoring Production Agents"></a>
 <a href="https://academy.langchain.com/certificates/qqzzsf6ohz" target="_blank"><img src="https://img.shields.io/badge/Quickstart:_Autonomous_Agent_Improvement-qqzzsf6ohz-blue?style=flat-square&logo=python&logoColor=white" alt="Quickstart: Autonomous Agent Improvement"></a>
 
+### 🎓 Databricks Certifications & Course Completions
+
+- ![Databricks Fundamentals](https://img.shields.io/badge/Databricks-Fundamentals-FF3621?style=for-the-badge&logo=databricks&logoColor=white)  
+  **Fundamentals** | Score: 100% | [Course Link](https://www.databricks.com/try-databricks?utm_source=course_completion&utm_medium=linkedin&utm_campaign=fe_learning_completion&utm_content=fundamentals-v2)
+
+- ![Data Engineering](https://img.shields.io/badge/Databricks-Data%20Engineering-00A88F?style=for-the-badge&logo=databricks&logoColor=white)  
+  **Get Started with Data Engineering** | Score: 100% | [Course Link](https://www.databricks.com/try-databricks?utm_source=course_completion&utm_medium=linkedin&utm_campaign=fe_learning_completion&utm_content=get-started-de)
+
+- ![Machine Learning](https://img.shields.io/badge/Databricks-Machine%20Learning-FF9900?style=for-the-badge&logo=databricks&logoColor=white)  
+  **Get Started with Machine Learning** | Score: 100% | [Course Link](https://www.databricks.com/try-databricks?utm_source=course_completion&utm_medium=linkedin&utm_campaign=fe_learning_completion&utm_content=machine-learning)
+
+- ![Generative AI](https://img.shields.io/badge/Databricks-Generative%20AI-7B2CBF?style=for-the-badge&logo=databricks&logoColor=white)  
+  **Get Started with Databricks for Generative AI** | Score: 100% | [Course Link](https://www.databricks.com/try-databricks?utm_source=course_completion&utm_medium=linkedin&utm_campaign=fe_learning_completion&utm_content=get-started-gen-ai)
+
+- ![AI Agents](https://img.shields.io/badge/Databricks-AI%20Agents-2A6F97?style=for-the-badge&logo=databricks&logoColor=white)  
+  **Get Started with AI Agents on Databricks** | Score: 100% | [Course Link](https://www.databricks.com/try-databricks?utm_source=course_completion&utm_medium=linkedin&utm_campaign=fe_learning_completion&utm_content=get-started-ai-agents)
+
 ### Forage Job Simulations — Yevhen Ivashchenko
 
 <p align="left">
