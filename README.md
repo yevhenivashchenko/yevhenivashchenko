@@ -355,6 +355,10 @@
   </a>
 </p>
 
+## Coddy Certificates — [Yevhen Ivashchenko](https://coddy.tech/user/yevhenivashchenko?via=share_profile)
+
+[![Coddy R Fundamentals](https://img.shields.io/badge/Coddy-R_Fundamentals-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-r-sE8nD1)
+
 ### English Certificates
 
 <a href="https://pulse.transparent.com/english/result/78cfe-13a54075f" target="_blank"><img src="https://img.shields.io/badge/Transparent_PULSE-120_%2F_120_(Basic)-blue?style=flat-square" alt="Transparent PULSE 120 / 120 (Basic)"></a>
