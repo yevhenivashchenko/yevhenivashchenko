@@ -358,6 +358,9 @@
 ## France Université Numérique (FUN) Courses — Yevhen Ivashchenko
 
 <a href="https://openbadgefactory.com/validator?id=cccd92884d755711787c2d7c956f170727db0835" target="_blank"><img src="https://img.shields.io/badge/FUN-Machine_learning_in_Python_with_scikit--learn_(2026)-0055A5?style=flat-square&logo=python&logoColor=white" alt="Machine learning in Python with scikit-learn (2026)"></a>
+<a href="https://openbadgefactory.com/validator?id=8a68d57464d94c1ce7934b8a3bf66f6402edc591" target="_blank"><img src="https://img.shields.io/badge/FUN-Fondamentaux_pour_le_Big_Data_(2026)-0055A5?style=flat-square&logo=python&logoColor=white" alt="Fondamentaux pour le Big Data (2026)"></a>
+
+<a href="https://openbadgefactory.com/validator?id=fa21cceaf290e35318d291c194dfd57e23daef5f" target="_blank"><img src="https://img.shields.io/badge/FUN-Python_%3A_des_fondamentaux_aux_concepts_avanc%C3%A9s_(2026)-0055A5?style=flat-square&logo=python&logoColor=white" alt="Python : des fondamentaux aux concepts avancés du langage (2026)"></a>
 
 ## Coddy Certificates — [Yevhen Ivashchenko](https://coddy.tech/user/yevhenivashchenko?via=share_profile)
 
