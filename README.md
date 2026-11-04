@@ -365,6 +365,7 @@
 ## Coddy Certificates — [Yevhen Ivashchenko](https://coddy.tech/user/yevhenivashchenko?via=share_profile)
 
 [![Coddy R Fundamentals](https://img.shields.io/badge/Coddy-R_Fundamentals-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-r-sE8nD1)
+[![Coddy Python](https://img.shields.io/badge/Coddy-Python-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-python-ZP9neU)
 
 ### English Certificates
 
