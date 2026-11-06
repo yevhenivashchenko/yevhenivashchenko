@@ -221,6 +221,13 @@
 [![Getting Started with Generative AI](https://img.shields.io/badge/Credly-Getting%20Started%20with%20Generative%20AI-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/c6fe04a6-1276-4364-bc9c-5a553c341219/public_url)
 [![Introduction to Inferential and Descriptive Statistics](https://img.shields.io/badge/Credly-Introduction%20to%20Inferential%20and%20Descriptive%20Statistics-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/c37a1f8e-6a18-41f4-bea7-e49b6ea948e9/public_url)
 
+[![Credly](https://img.shields.io/badge/Credly-Deep%20Learning%20Essentials-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/4a179b77-4c86-457d-ade0-f3b52d4ee343)
+[![Credly](https://img.shields.io/badge/Credly-Statistics%20101-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/c10c3ab9-26a7-4810-a77f-0a536d5404bc)
+[![Credly](https://img.shields.io/badge/Credly-Open%20Source%20Foundations-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/609d5df1-8a1c-46d0-a1fd-14f4fb7144c9)
+[![Credly](https://img.shields.io/badge/Credly-Data%20Science%20Foundations%20--%20Level%201-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/19ab6ec9-024f-41d3-91de-5802d6499d83)
+[![Credly](https://img.shields.io/badge/Credly-R%20for%20Data%20Science-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/63cb3172-5d99-41be-9135-66da632cd11c)
+[![Credly](https://img.shields.io/badge/Credly-Machine%20Learning%20with%20R%20--%20Level%201-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/4febde95-5f61-47c7-928a-3af9b35b5dcc)
+
 ### Linux Foundation Badges - Yevhen Ivashchenko
 
 [![Credly Linux](https://img.shields.io/badge/Credly-LFS101%3A%20Introduction%20to%20Linux-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/d52b38ae-9a2f-44e3-ae4d-4b6251906eaf/public_url)
@@ -366,6 +373,16 @@
 
 [![Coddy R Fundamentals](https://img.shields.io/badge/Coddy-R_Fundamentals-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-r-sE8nD1)
 [![Coddy Python](https://img.shields.io/badge/Coddy-Python-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-python-ZP9neU)
+
+### Cognitive Class Certificates - Yevhen Ivashchenko
+
+[![Cognitive Class](https://img.shields.io/badge/Cognitive%20Class-Deep%20Learning%20Fundamentals-blue?style=flat-square&logo=ibm)](https://courses.cognitiveclass.ai/certificates/6ef12fe29b254cfa8d40b9e815b4bb6b)
+[![Cognitive Class](https://img.shields.io/badge/Cognitive%20Class-Statistics%20101-blue?style=flat-square&logo=ibm)](https://courses.cognitiveclass.ai/certificates/18cb54e542ea46ceb20af75589d3353a)
+[![Cognitive Class](https://img.shields.io/badge/Cognitive%20Class-Machine%20Learning%20--%20Dimensionality%20Reduction-blue?style=flat-square&logo=ibm)](https://courses.cognitiveclass.ai/certificates/1b8593c713804958bf30dd231a30959c)
+[![Cognitive Class](https://img.shields.io/badge/Cognitive%20Class-Introduction%20to%20Open%20Source-blue?style=flat-square&logo=ibm)](https://courses.cognitiveclass.ai/certificates/b6c2ae8c88ad4512b9c1a7c930f0402f)
+[![Cognitive Class](https://img.shields.io/badge/Cognitive%20Class-Data%20Science%20101-blue?style=flat-square&logo=ibm)](https://courses.cognitiveclass.ai/certificates/12c1f9ed356543d1a9e5f1937651ae5d)
+[![Cognitive Class](https://img.shields.io/badge/Cognitive%20Class-R%20for%20Data%20Science-blue?style=flat-square&logo=ibm)](https://courses.cognitiveclass.ai/certificates/ef65716133794b63a49afbe1121fffe1)
+[![Cognitive Class](https://img.shields.io/badge/Cognitive%20Class-Machine%20Learning%20with%20R-blue?style=flat-square&logo=ibm)](https://courses.cognitiveclass.ai/certificates/e17b495f0e984d23b222f39262c1b5b0)
 
 ### English Certificates
 
