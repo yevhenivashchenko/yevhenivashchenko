@@ -380,6 +380,7 @@
 [![Cognitive Class](https://img.shields.io/badge/Cognitive%20Class-Data%20Science%20101-blue?style=flat-square&logo=ibm)](https://courses.cognitiveclass.ai/certificates/12c1f9ed356543d1a9e5f1937651ae5d)
 [![Cognitive Class](https://img.shields.io/badge/Cognitive%20Class-R%20for%20Data%20Science-blue?style=flat-square&logo=ibm)](https://courses.cognitiveclass.ai/certificates/ef65716133794b63a49afbe1121fffe1)
 [![Cognitive Class](https://img.shields.io/badge/Cognitive%20Class-Machine%20Learning%20with%20R-blue?style=flat-square&logo=ibm)](https://courses.cognitiveclass.ai/certificates/e17b495f0e984d23b222f39262c1b5b0)
+[![Cognitive Class](https://img.shields.io/badge/Cognitive%20Class-SQL%20and%20Relational%20Databases%20101-blue?style=flat-square&logo=ibm)](https://courses.cognitiveclass.ai/certificates/fa7980bb74774a678dd7287cd0dc25cf)
 
 ### English Certificates
 
