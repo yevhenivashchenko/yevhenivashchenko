@@ -225,7 +225,6 @@
 [![Credly](https://img.shields.io/badge/Credly-Data%20Science%20Foundations%20--%20Level%201-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/19ab6ec9-024f-41d3-91de-5802d6499d83)
 [![Credly](https://img.shields.io/badge/Credly-R%20for%20Data%20Science-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/63cb3172-5d99-41be-9135-66da632cd11c)
 [![Credly](https://img.shields.io/badge/Credly-Machine%20Learning%20with%20R%20--%20Level%201-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/4febde95-5f61-47c7-928a-3af9b35b5dcc)
-[![Credly](https://img.shields.io/badge/Credly-Data%20Science%20Foundations%20--%20Level%201-blue?style=flat-square&logo=credly)](https://www.credly.com/badges/19ab6ec9-024f-41d3-91de-5802d6499d83)
 
 ### Linux Foundation Badges - Yevhen Ivashchenko
 
@@ -382,7 +381,6 @@
 [![Cognitive Class](https://img.shields.io/badge/Cognitive%20Class-R%20for%20Data%20Science-blue?style=flat-square&logo=ibm)](https://courses.cognitiveclass.ai/certificates/ef65716133794b63a49afbe1121fffe1)
 [![Cognitive Class](https://img.shields.io/badge/Cognitive%20Class-Machine%20Learning%20with%20R-blue?style=flat-square&logo=ibm)](https://courses.cognitiveclass.ai/certificates/e17b495f0e984d23b222f39262c1b5b0)
 [![Cognitive Class](https://img.shields.io/badge/Cognitive%20Class-SQL%20and%20Relational%20Databases%20101-blue?style=flat-square&logo=ibm)](https://courses.cognitiveclass.ai/certificates/fa7980bb74774a678dd7287cd0dc25cf)
-[![Cognitive Class](https://img.shields.io/badge/Cognitive%20Class-Data%20Science%20101-blue?style=flat-square&logo=ibm)](https://courses.cognitiveclass.ai/certificates/12c1f9ed356543d1a9e5f1937651ae5d)
 
 ### English Certificates
 
