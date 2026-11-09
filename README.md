@@ -371,6 +371,7 @@
 
 [![Coddy R Fundamentals](https://img.shields.io/badge/Coddy-R_Fundamentals-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-r-sE8nD1)
 [![Coddy Python](https://img.shields.io/badge/Coddy-Python-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-python-ZP9neU)
+[![Coddy Python](https://img.shields.io/badge/Coddy-Python%20Logic%20%26%20Flow-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-python-C8r1xh)
 
 ### Cognitive Class Certificates - Yevhen Ivashchenko
 
