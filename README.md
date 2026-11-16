@@ -375,6 +375,7 @@
 [![Coddy_SQLite Fundamentals](https://img.shields.io/badge/Coddy-SQLite%20Fundamentals-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-sqlite-oRigJZ)
 [![Coddy_SQLite Beyond the Basics](https://img.shields.io/badge/Coddy-SQLite%20Beyond%20the%20Basics-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-sqlite-PcA4IJ)
 [![Coddy_Machine Learning Data and Plots](https://img.shields.io/badge/Coddy-Machine%20Learning%20Data%20and%20Plots-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-machine_learning-HW46bC)
+[![Coddy Machine Learning Statistics for ML](https://img.shields.io/badge/Coddy-Machine%20Learning%20Statistics%20for%20ML-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-machine_learning-H964Gx)
 
 ### Cognitive Class Certificates - Yevhen Ivashchenko
 
