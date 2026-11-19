@@ -377,6 +377,8 @@
 [![Coddy_Machine Learning Data and Plots](https://img.shields.io/badge/Coddy-Machine%20Learning%20Data%20and%20Plots-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-machine_learning-HW46bC)
 [![Coddy Machine Learning Statistics for ML](https://img.shields.io/badge/Coddy-Machine%20Learning%20Statistics%20for%20ML-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-machine_learning-H964Gx)
 [![Coddy Machine Learning Supervised Learning](https://img.shields.io/badge/Coddy-Machine%20Learning%20Supervised%20Learning-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-machine_learning-faJTgV)
+[![Coddy Machine Learning Unsupervised Learning](https://img.shields.io/badge/Coddy-Machine%20Learning%20Unsupervised%20Learning-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-machine_learning-0MPAWW)
+[![Coddy Data Scientist](https://img.shields.io/badge/Coddy-Data%20Scientist-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-path-data_science)
 
 ### Cognitive Class Certificates - Yevhen Ivashchenko
 
