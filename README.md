@@ -380,6 +380,10 @@
 [![Coddy Machine Learning Unsupervised Learning](https://img.shields.io/badge/Coddy-Machine%20Learning%20Unsupervised%20Learning-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-machine_learning-0MPAWW)
 [![Coddy Data Scientist](https://img.shields.io/badge/Coddy-Data%20Scientist-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-path-data_science)
 
+---
+
+---
+
 ### Cognitive Class Certificates - Yevhen Ivashchenko
 
 [![Cognitive Class](https://img.shields.io/badge/Cognitive%20Class-Deep%20Learning%20Fundamentals-blue?style=flat-square&logo=ibm)](https://courses.cognitiveclass.ai/certificates/6ef12fe29b254cfa8d40b9e815b4bb6b)
