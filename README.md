@@ -384,6 +384,9 @@ Data Scientist/Machine Learning
 
 ---
 
+Data Structures & Algorithms
+
+
 ---
 
 ### Cognitive Class Certificates - Yevhen Ivashchenko
