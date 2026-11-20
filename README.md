@@ -389,6 +389,10 @@ Data Structures & Algorithms
 
 ---
 
+Other secondary technology
+
+---
+
 ### Cognitive Class Certificates - Yevhen Ivashchenko
 
 [![Cognitive Class](https://img.shields.io/badge/Cognitive%20Class-Deep%20Learning%20Fundamentals-blue?style=flat-square&logo=ibm)](https://courses.cognitiveclass.ai/certificates/6ef12fe29b254cfa8d40b9e815b4bb6b)
