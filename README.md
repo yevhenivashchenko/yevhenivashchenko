@@ -7,21 +7,22 @@
 
 ### 🚀 Bio/about/summary/intro,introduction & Background
 
-​* **Role & Specialization: Data Scientist and Machine Learning Engineer.
-​* **Core Technologies: Python, R, SQL, Mathematics, and Statistics. Currently studying Algorithms, Data Structures, and Machine Learning Algorithms.
-​* **Core Libraries & Frameworks: NumPy, PyTorch, Pandas, TensorFlow, Scikit-learn.
-​* **Additional Technologies: APIs, REST API, Model Context Protocol (MCP).
-​* **Secondary Technologies (explored early in my career while learning the fundamentals of programming): [C++, Java, Go, Rust, Ruby]
-​* **Projects: TypeAI and PredictR.
-​* **Open Source: Volunteer contributions to various open-source projects.
-​* **Content Creation: Creator of a dedicated channel featuring my own course on Algorithms and Data Structures.
-​* **Interests & Additional Expertise:
-​Digital entrepreneurship, digital product development, digitalization, open source, and indie hacking.
-​Investments, fundraising, and crowdfunding.
-​Design, concept design, narrative design, and brand identity.
-​Game development and game mechanics analysis.
-​Business communication and English language learning.
-​My Positioning:
+​* **Role & Specialization:** Data Scientist and Machine Learning Engineer.
+* **Core Technologies:** Python, R, SQL, Mathematics, and Statistics. Currently studying Algorithms, Data Structures, and Machine Learning Algorithms.
+* **Core Libraries & Frameworks:** NumPy, PyTorch, Pandas, TensorFlow, Scikit-Learn.
+* **Additional Technologies:** APIs, REST API, Model Context Protocol (MCP).
+* **Secondary Technologies (explored early in my career while learning the fundamentals of programming):** [C++, Java, Go, Rust, Ruby]
+* **Projects:** TypeAI and PredictR.
+* **Open Source:** Volunteer contributions to various open-source projects.
+* **Content Creation:** Creator of a dedicated channel featuring my own course on Algorithms and Data Structures.
+* **Interests & Additional Expertise:**
+  * Digital entrepreneurship, digital product development, digitalization, open source, and indie hacking.
+  * Investments, fundraising, and crowdfunding.
+  * Design, concept design, narrative design, and brand identity.
+  * Game development and game mechanics analysis.
+  * Business communication and English language learning.
+
+My Positioning:
 * **Machine Learning & Backend:** Focused on data modeling, scalable backend systems, and competitive programming. Turning raw data into production intelligence.
 * **Mathematics & Algorithms:** Math Ambassador passionate about mathematics, algorithms, and analytical thinking, viewing math as the universal language behind complex systems, innovation, and technology.
 * **Programming & Development:** Programming Evangelist with expertise across Python, Go, Rust, C++, Java, Ruby, R, SQL, and modern Deep Learning frameworks, dedicated to building, teaching, and applying technology to real-world challenges.
