@@ -403,7 +403,7 @@ Data Scientist/Machine Learning
 Data Structures & Algorithms
 
 [![Coddy Hash Tables - Data Structures Series #4](https://img.shields.io/badge/Coddy-Hash%20Tables%20%E2%80%93%20Data%20Structures%20Series%20%234-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-NH6IGz)
-[![Coddy Linked List - Data Structures Series #5](https://img.shields.io/badge/Coddy-Linked%20List%20-%20Data%20Structures%20Series%20%235-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-Tv9T1Q)
+[![Coddy Linked List - Data Structures Series #5](https://img.shields.io/badge/Coddy-Linked%20List%20Data%20Structures%20Series%20%235-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-Tv9T1Q)
 
 ---
 
