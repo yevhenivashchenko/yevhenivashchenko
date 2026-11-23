@@ -405,6 +405,10 @@ Data Structures & Algorithms
 [![Coddy Hash Tables - Data Structures Series #4](https://img.shields.io/badge/Coddy-Hash%20Tables%20%E2%80%93%20Data%20Structures%20Series%20%234-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-NH6IGz)
 [![Coddy Linked List - Data Structures Series #5](https://img.shields.io/badge/Coddy-Linked%20List%20Data%20Structures%20Series%20%235-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-Tv9T1Q)
 [![Coddy Doubly Linked List - Data Structures Series #6](https://img.shields.io/badge/Coddy-Doubly%20Linked%20List%20%E2%80%93%20Data%20Structures%20Series%20%236-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-try7HX)
+[![Coddy Heaps & Priority Queues - Data Structures Series #7](https://img.shields.io/badge/Coddy-Heaps%20%26%20Priority%20Queues%20%E2%80%93%20Data%20Structures%20Series%20%237-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-Q1wcCN)
+[![Coddy Tries - Data Structures Series #8](https://img.shields.io/badge/Coddy-Tries%20%E2%80%93%20Data%20Structures%20Series%20%238-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-1F3mV8)
+[![Coddy Graphs - Data Structures Series #9](https://img.shields.io/badge/Coddy-Graphs%20%E2%80%93%20Data%20Structures%20Series%20%239-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-HzodQy)
+[![Coddy AVL Tree - Data Structures Series #10](https://img.shields.io/badge/Coddy-AVL%20Tree%20%E2%80%93%20Data%20Structures%20Series%20%2310-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-YtQPOV)
 
 ---
 
