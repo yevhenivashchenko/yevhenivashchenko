@@ -409,7 +409,6 @@ Data Structures & Algorithms
 [![Coddy Tries - Data Structures Series #8](https://img.shields.io/badge/Coddy-Tries%20%E2%80%93%20Data%20Structures%20Series%20%238-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-1F3mV8)
 [![Coddy Graphs - Data Structures Series #9](https://img.shields.io/badge/Coddy-Graphs%20%E2%80%93%20Data%20Structures%20Series%20%239-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-HzodQy)
 [![Coddy AVL Tree - Data Structures Series #10](https://img.shields.io/badge/Coddy-AVL%20Tree%20%E2%80%93%20Data%20Structures%20Series%20%2310-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-YtQPOV)
-
 [![Coddy Selection Sort DSA Series](https://img.shields.io/badge/Coddy-Selection%20Sort%20DSA%20Series-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-oxNLH6)
 [![Coddy Merge Sort DSA Series](https://img.shields.io/badge/Coddy-Merge%20Sort%20DSA%20Series-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-CayRsT)
 [![Coddy Quick Sort DSA Series](https://img.shields.io/badge/Coddy-Quick%20Sort%20DSA%20Series-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-6HO2Ex)
