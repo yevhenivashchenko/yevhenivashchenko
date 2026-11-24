@@ -416,9 +416,9 @@ Data Structures & Algorithms
 [![Coddy Counting Sort DSA Series](https://img.shields.io/badge/Coddy-Counting%20Sort%20DSA%20Series-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-G2Cny1)
 [![Coddy Radix Sort DSA Series](https://img.shields.io/badge/Coddy-Radix%20Sort%20DSA%20Series-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-yHWQ6J)
 
-[![Coddy Breadth-First Search](https://img.shields.io/badge/Coddy-Breadth--First%20Search-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-uKmAS3)
-[![Coddy Depth-First Search](https://img.shields.io/badge/Coddy-Depth--First%20Search-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-dDpdF9)
-[![Coddy Recursion Challenges](https://img.shields.io/badge/Coddy-Recursion%20Challenges-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-uDkljG)
+* [Coddy — Breadth-First Search – Graph Algorithms](https://coddy.tech/certifications/BDLomH-uKmAS3)
+* [Coddy — Depth-First Search – Graph Algorithms](https://coddy.tech/certifications/BDLomH-dDpdF9)
+* [Coddy — Recursion Challenges – Master The Recursive Thinking](https://coddy.tech/certifications/BDLomH-uDkljG)
 
 ---
 
