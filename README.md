@@ -383,7 +383,7 @@ My Positioning:
 
 <a href="https://openbadgefactory.com/validator?id=fa21cceaf290e35318d291c194dfd57e23daef5f" target="_blank"><img src="https://img.shields.io/badge/FUN-Python_%3A_des_fondamentaux_aux_concepts_avanc%C3%A9s_(2026)-0055A5?style=flat-square&logo=python&logoColor=white" alt="Python : des fondamentaux aux concepts avancés du langage (2026)"></a>
 
-## Coddy Certificates — [Yevhen Ivashchenko](https://coddy.tech/user/yevhenivashchenko?via=share_profile)
+## Coddy Certificates — [Yevhen Ivashchenko](https://coddy.tech/user/yevhenivashchenko?via=share_profile) — Level 29 · 39 Streak · 46260 Total XP · Elite Current league
 
 Data Scientist/Machine Learning
 
