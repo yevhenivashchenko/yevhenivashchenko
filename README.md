@@ -269,6 +269,23 @@ My Positioning:
   </a>
 </p>
 
+===
+
+<p align="left">
+  <a href="https://www.codechef.com/users/yevhenivashche" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-Problem%20Solver--Diamond-blue?style=flat-square&logo=codechef&logoColor=white" alt="Problem Solver - Diamond Badge">
+  </a>
+  <a href="https://www.codechef.com/users/yevhenivashche" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-Daily%20Streak--Diamond%20(100d)-blue?style=flat-square&logo=codechef&logoColor=white" alt="Daily Streak - Diamond Badge">
+  </a>
+  <a href="https://www.codechef.com/certificates/public/3775d3f" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-Practice%20Rust-orange?style=flat-square&logo=codechef&logoColor=white" alt="Practice Rust Certificate">
+  </a>
+  <a href="https://www.codechef.com/certificates/public/a36188c" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-Practice%20Go-orange?style=flat-square&logo=codechef&logoColor=white" alt="Practice Go Certificate">
+  </a>
+</p>
+
 ### CodeChef Skill Tests
 
 <p align="left">
