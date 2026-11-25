@@ -419,6 +419,10 @@ Data Structures & Algorithms
 [![Coddy Depth-First Search](https://img.shields.io/badge/Coddy-Depth--First%20Search-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-dDpdF9)
 [![Coddy Recursion Challenges](https://img.shields.io/badge/Coddy-Recursion%20Challenges-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-uDkljG)
 
+[![Coddy Dijkstra's Algorithm - Graph Algorithms](https://img.shields.io/badge/Coddy-Dijkstra's%20Algorithm%20--%20Graph%20Algorithms-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-bpJGsF)
+[![Coddy Bellman-Ford Algorithm - Graph Algorithms](https://img.shields.io/badge/Coddy-Bellman--Ford%20Algorithm%20--%20Graph%20Algorithms-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-2h0WaV)
+
+
 ---
 
 mathematics and other
