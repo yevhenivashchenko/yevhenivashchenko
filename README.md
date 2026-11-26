@@ -428,6 +428,10 @@ Data Structures & Algorithms
 [![Coddy Kruskal's Algorithm - Graph Algorithms](https://img.shields.io/badge/Coddy-Kruskal's%20Algorithm%20--%20Graph%20Algorithms-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-N5bxO7)
 [![Coddy Python Interview Series](https://img.shields.io/badge/Coddy-Python%20Interview%20Series-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-wmZmtL)
 
+[![Coddy Coding Problems](https://img.shields.io/badge/Coddy-Coding%20Problems-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-RjlcJW)
+[![Coddy Coding Problems: Volume 2](https://img.shields.io/badge/Coddy-Coding%20Problems%3A%20Volume%202-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-cYPs2T)
+[![Coddy Data Structures & Algorithms Learning Path](https://img.shields.io/badge/Coddy-Data%20Structures%20%26%20Algorithms%20Learning%20Path-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-path-dsa)
+
 ---
 
 mathematics and other
