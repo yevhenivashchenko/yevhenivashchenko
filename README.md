@@ -426,7 +426,6 @@ Data Structures & Algorithms
 [![Coddy Topological Sort - Graph Algorithms](https://img.shields.io/badge/Coddy-Topological%20Sort%20--%20Graph%20Algorithms-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-VRoRY5)
 [![Coddy Prim's Algorithm - Graph Algorithms](https://img.shields.io/badge/Coddy-Prim's%20Algorithm%20--%20Graph%20Algorithms-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-YssBFs)
 [![Coddy Kruskal's Algorithm - Graph Algorithms](https://img.shields.io/badge/Coddy-Kruskal's%20Algorithm%20--%20Graph%20Algorithms-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-N5bxO7)
-
 [![Coddy Python Interview Series](https://img.shields.io/badge/Coddy-Python%20Interview%20Series-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-wmZmtL)
 
 ---
