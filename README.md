@@ -400,6 +400,7 @@ Data Scientist/Machine Learning
 [![Coddy Machine Learning Supervised Learning](https://img.shields.io/badge/Coddy-Machine%20Learning%20Supervised%20Learning-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-machine_learning-faJTgV)
 [![Coddy Machine Learning Unsupervised Learning](https://img.shields.io/badge/Coddy-Machine%20Learning%20Unsupervised%20Learning-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-machine_learning-0MPAWW)
 [![Coddy Data Scientist](https://img.shields.io/badge/Coddy-Data%20Scientist-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-path-data_science)
+[![Coddy R Logic & Flow](https://img.shields.io/badge/Coddy-R%20Logic%20%26%20Flow-blue?style=flat-square&logo=codeforces&logoColor=white)](https://coddy.tech/certifications/BDLomH-r-ZSoD9l)
 
 ---
 
